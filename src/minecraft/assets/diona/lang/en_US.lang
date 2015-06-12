@@ -1,0 +1,147 @@
+# More Planet's : Diona Language Files = English
+
+# BLOCK
+tile.dionaTreasureChest.name=Tier 3 Diona Treasure Chest
+tile.dn.quontoniumOre.name=Quontonium Ore
+tile.dn.dionaSiliconOre.name=Silicon Ore
+tile.dn.dionaAluminiumOre.name=Aluminium Ore
+tile.dn.dionaTitaniumOre.name=Titanium Ore
+tile.dn.baronsiumOre.name=Baronsium Ore
+tile.dn.fronisiumOre.name=Fronisium Ore
+tile.dn.dionaTurf.name=Diona Surface Rock
+tile.dn.dionaDirt.name=Diona Sub-Surface Rock
+tile.dn.dionaStone.name=Diona Rock
+tile.dn.quontoniumBlock.name=Quontonium Block
+tile.dn.baronsiumBlock.name=Baronsium Block
+tile.dn.quontoniumDecorationSmooth.name=Smooth Quontonium Block
+tile.dn.quontoniumDecorationBrick.name=Quontonium Bricks Block
+tile.dn.quontoniumDecorationChiseled.name=Chiseled Quontonium Block
+tile.dn.dionaDungeonBrick.name=Diona Dungeon Bricks
+tile.tinStairs.name=Tin Stairs
+tile.tin2Stairs.name=Tin Stairs
+tile.moonStoneStairs.name=Moon Stone Stairs
+tile.dionaStoneStairs.name=Diona Rock Stairs
+tile.smoothQuontoniumStairs.name=Smooth Quontonium Stairs
+tile.quontoniumBricksStairs.name=Quontonium Bricks Stairs
+tile.stoneHalfSlab1.tinSlab.name=Tin Slab
+tile.stoneHalfSlab1.tin2Slab.name=Tin Slab
+tile.stoneHalfSlab1.moonStoneSlab.name=Moon Stone Slab
+tile.stoneHalfSlab1.dionaStoneSlab.name=Diona Rock Slab
+tile.stoneHalfSlab1.smoothQuontoniumSlab.name=Smooth Quontonium Slab
+tile.wall.tinWall.name=Tin Wall
+tile.wall.tinWall2.name=Tin Wall
+tile.wall.quonBrickWall.name=Quontonium Bricks Wall
+tile.quontoniumBricksFence.name=Quontonium Bricks Fence
+tile.fronisiumTNT.name=Fronisium TNT
+tile.minionCreeperEgg.name=Diona Minion Creeper Egg
+tile.marsCobblestoneStairs.name=Mars Cobblestone Stairs
+tile.wall.marsStone.name=Mars Cobblestone Wall
+tile.stoneHalfSlab1.marsCobblestoneSlab.name=Mars Cobblestone Slab
+tile.stoneHalfSlab2.brickQuontoniumSlab.name=Quontonium Bricks Slab
+tile.titaniumFence.name=Titanium Fence
+tile.dionaAncientChest.name=Diona Ancient Chest
+
+# DOUBLE SLAB
+tile.stoneDoubleSlab1.tinSlab.name=Double Tin Slab
+tile.stoneDoubleSlab1.tin2Slab.name=Double Tin Slab
+tile.stoneDoubleSlab1.moonStoneSlab.name=Double Moon Stone Slab
+tile.stoneDoubleSlab1.marsCobblestoneSlab.name=Double Mars Cobblestone Slab
+tile.stoneDoubleSlab1.polongniusCobblestoneSlab.name=Double Polongnius Cobblestone Slab
+tile.stoneDoubleSlab1.nibiruCobblestoneStoneSlab.name=Double Nibiru Cobblestone Slab
+tile.stoneDoubleSlab1.dionaStoneSlab.name=Double Diona Rock Slab
+tile.stoneDoubleSlab1.smoothQuontoniumSlab.name=Double Smooth Quontonium Slab
+tile.stoneDoubleSlab2.brickQuontoniumSlab.name=Double Quontonium Bricks Slab
+tile.stoneDoubleSlab2.koentusCobblestoneSlab.name=Double Koentus Cobblestone Slab
+tile.woodenDoubleSlab.whiteWoodSlab.name=White Wood Slab
+tile.woodenDoubleSlab.orangeWoodSlab.name=Orange Wood Slab
+
+# ITEMS
+item.spaceshipTier3.name=Tier 3 Rocket
+item.quontoniumIngot.name=Quontonium Ingot
+item.baronsiumIngot.name=Baronsium Ingot
+item.fronisiumIngot.name=Fronisium Ingot
+item.quontoniumPlate.name=Quontonium Plate
+item.baronsiumPlate.name=Baronsium Plate
+item.fronisiumPlate.name=Fronisium Plate
+item.redCanvas.name=Red Canvas
+item.whiteCanvas.name=White Canvas
+item.blueCanvas.name=Blue Canvas
+item.thailandCanvasBottom.name=Thailand Canvas
+item.thailandCanvasUp.name=Thailand Canvas
+item.quontoniumStick.name=Quontonium Stick
+item.fronisiumStick.name=Fronisium Stick
+item.flag.thailand.name=Thailand Flag
+item.dionaDungeonKey.name=Tier 3 Diona Dungeon Key
+item.titaniumIngot.name=Titanium Ingot
+item.partNoseConeT3.name=Tier 3 Nose Cone
+item.partFinsT3.name=Tier 3 Rocket Fins
+item.rocketEngineT3.name=Tier 3 Rocket Engine
+item.boosterT3.name=Tier 3 Booster
+item.schematicT3.name=NASA Workbench Schematic
+item.heavyDutyPlateT3.name=Heavy-Duty Plate
+item.heavyDutyPlateT4.name=Heavy-Duty Plate
+item.rawKoentusMeteor.name=Raw Koentus Meteor
+item.koentusMeteorIngot.name=Koentus Meteor Ingot
+item.koentusMeteorPlate.name=Koentus Meteor Plate
+item.bs.baronsiumBucket.name=Baronsium Bucket
+item.laserGun.name=Laser Gun
+item.lc.normalLaserCharge.name=Normal Laser Charge
+item.lc.hyperLaserCharge.name=Hyper Laser Charge
+item.flag.laos.name=Laos Flag
+item.flag.singapore.name=Singapore Flag
+item.flag.myanmar.name=Myanmar Flag
+item.flag.marlaysia.name=Marlaysia Flag
+item.flag.vietnam.name=Vietnam Flag
+item.flag.indonesia.name=Indonesia Flag
+item.flag.philippines.name=Philippines Flag
+item.flag.cambodia.name=Cambodia Flag
+item.flag.brunei.name=Brunei Flag
+item.partNoseConeNoFlagT3.name=Tier 3 Nose Cone
+
+# TOOLS
+item.quontoniumSword.name=Quontonium Sword
+item.quontoniumPickaxe.name=Quontonium Pickaxe
+item.quontoniumSpade.name=Quontonium Spade
+item.quontoniumHoe.name=Quontonium Hoe
+item.quontoniumAxe.name=Quontonium Axe
+item.fronisiumSword.name=Fronisium Sword
+item.fronisiumPickaxe.name=Fronisium Pickaxe
+item.fronisiumSpade.name=Fronisium Spade
+item.fronisiumHoe.name=Fronisium Hoe
+item.fronisiumAxe.name=Fronisium Axe
+
+# ARMORS
+item.quontoniumHelmet.name=Quontonium Helmet
+item.quontoniumChestplate.name=Quontonium Chestplate
+item.quontoniumLeggings.name=Quontonium Leggings
+item.quontoniumBoots.name=Quontonium Boots
+item.fronisiumHelmet.name=Fronisium Helmet
+item.fronisiumChestplate.name=Fronisium Chestplate
+item.fronisiumLeggings.name=Fronisium Leggings
+item.fronisiumBoots.name=Fronisium Boots
+item.breathableQuontoniumHelmet.name=Breathable Quontonium Helmet
+item.breathableFronisiumHelmet.name=Breathable Fronisium Helmet
+
+# ENTITIES
+entity.MorePlanet.SpaceWolf.name=Space Wolf
+entity.MorePlanet.SpaceEnderman.name=Space Enderman
+entity.MorePlanet.DelriumWorm.name=Delrium Worm
+entity.MorePlanet.DionaCreeperBoss.name=Diona Creeper Boss
+entity.MorePlanet.DionaMinionCreeper.name=Diona Minion Creeper
+
+# GUI
+itemGroup.MorePlanet=More Planet's Decorations
+itemGroup.MPDiona=More Planet's : Diona
+
+# CONTAINER
+container.diona.treasurechest.name=Diona Treasure Chest
+container.diona.ancientchest.name=Diona Ancient Chest
+
+# DIMENSION
+dimension.Diona.name=Diona
+
+# PLANET DESCRIPTION
+gui.choosePlanet.desc.diona=Habitable#No Oxygen#Gravity: 18%
+
+# DEATH MESSAGES
+death.attack.laser=%1$s was shot by laser

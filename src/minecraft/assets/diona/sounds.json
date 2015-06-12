@@ -1,0 +1,7 @@
+{
+  "player.laser":
+  {
+    "category": "player",
+    "sounds": ["player/laser"]
+  }
+}

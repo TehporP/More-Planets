@@ -1,0 +1,32 @@
+{
+  "mob.marshmallo.say":
+  {
+    "category": "neutral",
+    "sounds": ["mob/marshmallow/say"]
+  },
+  "mob.marshmallo.step":
+  {
+    "category": "neutral",
+    "sounds": ["mob/marshmallow/step"]
+  },
+    "mob.marshmallo.hurt":
+  {
+    "category": "neutral",
+    "sounds": ["mob/marshmallow/hurt1", "mob/marshmallow/hurt2"]
+  },
+    "mob.marshmallo.death":
+  {
+    "category": "neutral",
+    "sounds": ["mob/marshmallow/death"]
+  },
+    "records.ladadee":
+	{
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/ladadee",
+        "stream": true
+      }
+    ]
+  }
+}

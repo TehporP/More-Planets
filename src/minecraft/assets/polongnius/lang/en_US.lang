@@ -1,0 +1,102 @@
+# More Planet's : Polongnius Language Files = English
+
+# BLOCKS
+tile.cheeseOfMilkCake.name=Cheese of Milk Cake
+tile.pn.polongniusCopperOre.name=Copper Ore
+tile.pn.polongniusTinOre.name=Tin Ore
+tile.pn.polongniusIronOre.name=Iron Ore
+tile.pn.palladiumOre.name=Palladium Ore
+tile.pn.cheeseOfMilkOre.name=Cheese of Milk Ore
+tile.pn.polongniusMeteorOre.name=Polongnius Meteor Ore
+tile.pn.polongniusCheeseStone.name=Cheese Gas Stone
+tile.pn.polongniusDirt.name=Solid Cheese Gas
+tile.pn.floniumOre.name=Flonium Ore
+tile.pn.polongniusStone.name=Polongnius Stone
+tile.pn.polongniusCobblestone.name=Polongnius Cobblestone
+tile.pn.polongniusMeteorBlock.name=Polongnius Meteor Block
+tile.pn.floniumBlock.name=Flonium Block
+tile.pn.palladiumBlock.name=Palladium Block
+tile.pn.polongniusBrick.name=Polongnius Dungeon Bricks
+tile.polongniusTreasureChest.name=Tier 4 Polongnius Treasure Chest
+tile.floniumTorch.name=Flonium Torch
+tile.polongniusFallenMeteor.name=Fallen Polongnius Meteor
+tile.polongniusCobblestoneStairs.name=Polongnius Cobblestone Stairs
+tile.wall.polongniusCobblestone.name=Polongnius Cobblestone Wall
+tile.stoneHalfSlab1.polongniusCobblestoneSlab.name=Polongnius Cobblestone Slab
+tile.cheeseOfMilkFluid.name=Cheese of Milk
+tile.polongniusAncientChest.name=Polongnius Ancient Chest
+tile.polongniusSolarPanel.name=Polongnius Solar Panel
+tile.polongniusSlimeBlock.name=Polongnius Slime Block
+
+# ITEMS
+item.polongniusMeteorRaw.name=Raw Polongnius Meteor
+item.palladiumRaw.name=Raw Palladium
+item.polongniusMeteorIngot.name=Polongnius Meteor Ingot
+item.palladiumIngot.name=Palladium Ingot
+item.polongniusMeteorPlate.name=Polongnius Meteor Plate
+item.polongniusStick.name=Polongnius Meteor Stick
+item.palladiumStick.name=Palladium Stick
+item.leatherOfCheese.name=Leather of Cheese
+item.cheeseOfMilkCurd.name=Cheese of Milk Curd
+item.rawCheeseBeef.name=Raw Cheese Beef
+item.cookedCheeseBeef.name=Cooked Cheese Beef
+item.polongniusDungeonKey.name=Tier 4 Polongnius Dungeon Key
+item.polongniusMeteorWafer.name=Polongnius Meteor Wafer
+item.cheeseOfMilkItem.name=Cheese of Milk Block
+item.flonium.name=Flonium
+item.palladiumPlate.name=Palladium Plate
+item.cheeseSlimeball.name=Cheese Slimeball
+item.polongniusSolarWafer.name=Polongnius Solar Wafer
+item.polongniusSolarSingle.name=Single Polongnius Solar Panel
+item.polongniusSolarPanel.name=Full Polongnius Solar Panel
+item.bs.cheeseOfMilkBucket.name=Cheese of Milk Bucket
+item.rocketT4.name=Tier 4 Rocket
+item.rocketEngineT4.name=Tier 4 Rocket Engine
+item.boosterT4.name=Tier 4 Booster
+item.schematicT4.name=NASA Workbench Schematic
+
+# TOOLS
+item.polongniusMeteorPickaxe.name=Polongnius Meteor Pickaxe
+item.polongniusMeteorAxe.name=Polongnius Meteor Axe
+item.polongniusMeteorHoe.name=Polongnius Meteor Hoe
+item.polongniusMeteorSpade.name=Polongnius Meteor Spade
+item.polongniusMeteorSword.name=Polongnius Meteor Sword
+item.palladiumPickaxe.name=Palladium Pickaxe
+item.palladiumAxe.name=Palladium Axe
+item.palladiumHoe.name=Palladium Hoe
+item.palladiumSpade.name=Palladium Spade
+item.palladiumSword.name=Palladium Sword
+
+# ARMOR
+item.polongniusMeteorHelmet.name=Polongnius Meteor Helmet
+item.polongniusMeteorChestplate.name=Polongnius Meteor Chestplate
+item.polongniusMeteorLeggings.name=Polongnius Meteor Leggings
+item.polongniusMeteorBoots.name=Polongnius Meteor Boots
+item.leatherOfCheeseHelmet.name=Leather of Cheese Helmet
+item.leatherOfCheeseChestplate.name=Leather of Cheese Chestplate
+item.leatherOfCheeseLeggings.name=Leather of Cheese Leggings
+item.leatherOfCheeseBoots.name=Leather of Cheese Boots
+item.palladiumHelmet.name=Palladium Helmet
+item.palladiumChestplate.name=Palladium Chestplate
+item.palladiumLeggings.name=Palladium Leggings
+item.palladiumBoots.name=Palladium Boots
+item.breathablePolongniusMeteorHelmet.name=Breathable Polongnius Meteor Helmet
+item.breathablePalladiumHelmet.name=Breathable Palladium Helmet
+
+# ENTITIES
+entity.MorePlanet.CheeseCow.name=Cheese Cow
+entity.MorePlanet.CheeseSlime.name=Cheese Slime
+
+# GUI
+itemGroup.MPPolongnius=More Planet's : Polongnius
+
+# CONTAINER
+container.polongnius.ancientchest.name=Polongnius Ancient Chest
+container.polongnius.solaradvanced.name=Polongnius Advanced Solar
+container.polongnius.treasurechest.name=Polongnius Treasure Chest
+
+# DIMENSION
+dimension.Polongnius.name=Polongnius
+
+# PLANET DESCRIPTION
+gui.choosePlanet.desc.polongnius=Mini Gas Planet#No Oxygen#Gravity: 23%

@@ -1,0 +1,56 @@
+# More Planet's : Koentus Language Files = English
+
+# BLOCKS
+tile.kt.tinOre.name=Tin Ore
+tile.kt.meteoricIron.name=Meteoric Iron Ore
+tile.kt.whiteCrystal.name=White Crystal Ore
+tile.kt.blueMineralOre.name=Blue Mineral Ore
+tile.kt.becterialFossilized.name=Bacterial Fossil Ore
+tile.kt.koentusBlueGem.name=Blue Gem Ore
+tile.kt.koentusSurfaceStone.name=Koentus Surface Stone
+tile.kt.koentusSubStone.name=Koentus Sub-Surface Stone
+tile.kt.koentusStone.name=Koentus Stone
+tile.kt.koentusCobbletone.name=Koentus Cobblestone
+tile.kt.whiteCrystalBlock.name=White Crystal Block
+tile.kt.blueMineralBlock.name=Blue Mineral Block
+tile.kt.koentusBrick.name=Koentus Dungeon Bricks
+tile.koentusIce.name=Koentus Ice
+tile.koentusIceGlow.name=Koentus Glowing Ice
+tile.koentusCobblestoneStairs.name=Koentus Cobblestone Stairs
+tile.wall.koentusCobblestoneWall.name=Koentus Cobblestone Wall
+tile.stoneHalfSlab2.koentusCobblestoneSlab.name=Koentus Cobblestone Slab
+tile.koentusSludgeFluid.name=Koentus Sludge
+tile.koentusTreasureChest.name=Tier 3 Koentus Treasure Chest
+tile.koentusMeteor.name=Fallen Koentus Meteor
+tile.koentusEgg.name=Eledos Egg
+tile.crystalTorch.name=Crystal Torch
+tile.koentusRock.hardenedRock.name=Koentus Hardened Rock
+tile.nitrogenFluid.name=Nitrogen
+
+# ITEMS
+item.whiteCrystal.name=White Crystal
+item.blueMineral.name=Blue Mineral
+item.becterialFossil.name=Bacterial Fossil
+item.blueGem.name=Blue Gem
+item.koentusDungeonKey.name=Tier 3 Koentus Dungeon Key
+item.bs.koentusSludgeBucket.name=Koentus Sludge Bucket
+item.emptyNitrogenCanister.name=Empty Nitrogen Canister
+item.nitrogenCanisterPartial.name=Partially Filled Nitrogen Canister
+item.nitrogenCanister.name=Filled Nitrogen Canister
+item.nitrogenExtractor.name=Nitrogen Extractor
+
+# ENTITIES
+entity.MorePlanet.KoentusVillager.name=Koentus Villager
+entity.MorePlanet.Eledos.name=Eledos
+
+# GUI
+itemGroup.MPKoentus=More Planet's : Koentus
+
+# CONTAINER
+container.koentus.treasurechest.name=Koentus Treasure Chest
+
+# DIMENSION
+dimension.Koentus.name=Koentus
+
+# PLANET DESCRIPTION
+gui.choosePlanet.desc.koentus=Asteroid#No Oxygen#Gravity: 76%

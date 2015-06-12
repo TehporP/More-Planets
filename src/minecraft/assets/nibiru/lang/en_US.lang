@@ -1,0 +1,110 @@
+# More Planet's : Nibiru Language Files = English
+
+# BLOCKS
+tile.nr.ichoriusOre.name=Ichorius Ore
+tile.nr.noriumOre.name=Norium Ore
+tile.nr.nibiruDiamondOre.name=Diamond Ore
+tile.nr.nibiruCoalOre.name=Coal Ore
+tile.nr.nibiruRedGemOre.name=Red Gem Ore
+tile.nr.nibiruGrass.name=Nibiru Surface Stone
+tile.nr.nibiruDirt.name=Nibiru Sub-Surface Stone
+tile.nr.nibiruStone.name=Nibiru Stone
+tile.nr.nibiruCobblestone.name=Nibiru Cobblestone
+tile.oilStone.nibiruOilStone.name=Dry Oil Stone
+tile.oilStone.nibiruOilOre.name=Oil Ore
+tile.nr.nibiruBrick.name=Nibiru Dungeon Bricks
+tile.nibiruTreasureChest.name=Tier 5 Nibiru Treasure Chest
+tile.nibiruAncientChest.name=Nibiru Ancient Chest
+tile.heliumBlock.name=Helium Block
+tile.infectedWormEgg.name=Infected Worm Egg
+tile.infectedZombieEgg.name=Infected Zombie Egg
+tile.powerCrystalGenerator.0.name=Power Crystal Reactor
+tile.wall.nibiruCobblestone.name=Nibiru Cobblestone Wall
+tile.nibiruCobblestoneStairs.name=Nibiru Cobblestone Stairs
+tile.stoneHalfSlab1.nibiruCobblestoneSlab.name=Nibiru Cobblestone Slab
+tile.woodenHalfSlab.whiteWoodSlab.name=White Wood Slab
+tile.whiteWoodStairs.name=White Wood Stairs
+tile.nibiruPlanks.whitePlanks.name=White Wood Planks
+tile.nibiruSapling.appleSapling.name=Nibiru Apple Sapling
+tile.appleLeaves.leavesDefault.name=Nibiru Apple Leaves
+tile.appleLeaves.leavesFlower.name=Nibiru Apple Flower Leaves
+tile.appleLeaves.leavesRawApple.name=Nibiru Raw Apple Leaves
+tile.appleLeaves.leavesApple.name=Nibiru Apple Fruit Leaves
+tile.nibiruLog.whiteWood.name=White Wood
+tile.ichoriusTorch.name=Ichorius Torch
+tile.nibiruSapling.orangeSapling.name=Nibiru Orange Sapling
+tile.orangeLeaves.leaves2Default.name=Nibiru Orange Leaves
+tile.orangeLeaves.leaves2Flower.name=Nibiru Orange Flower Leaves
+tile.orangeLeaves.leaves2RawOrange.name=Nibiru Raw Orange Leaves
+tile.orangeLeaves.leaves2Orange.name=Nibiru Orange Fruit Leaves
+tile.nibiruPlanks.orangePlanks.name=Orange Wood Planks
+tile.nibiruLog.orangeWood.name=Orange Wood
+tile.orangeWoodStairs.name=Orange Wood Stairs
+tile.woodenHalfSlab.orangeWoodSlab.name=Orange Wood Slab
+tile.infectedGrass.name=Infected Grass
+tile.infectedDirt.name=Infected Dirt
+tile.infectedVine.name=Infected Vine
+tile.stoneDoubleSlab1.nibiruCobblestoneSlab.name=Double Nibiru Cobblestone Slab
+
+# ITEMS
+item.nibiruDungeonKey.name=Tier 5 Nibiru Dungeon Key
+item.spaceApple.name=Space Apple
+item.spaceOrange.name=Space Orange
+item.ichoriusCrystal.name=Ichorius Crystal
+item.orangeJuice.name=Orange Juice
+item.redGemPlate.name=Red Gem Plate
+item.redGem.name=Red Gem
+item.redGemStick.name=Red Gem Stick
+item.noriumIngot.name=Norium Ingot
+item.noriumPlate.name=Norium Plate
+item.noriumStick.name=Norium Stick
+item.rocketT5.name=Tier 5 Rocket
+item.rocketEngineT5.name=Tier 5 Rocket Engine
+item.boosterT5.name=Tier 5 Booster
+item.heavyDutyPlateT5.name=Heavy Duty Plate
+item.schematicT5.name=NASA Workbench Schematic
+
+# TOOLS
+item.redGemPickaxe.name=Red Gem Pickaxe
+item.redGemAxe.name=Red Gem Axe
+item.redGemHoe.name=Red Gem Hoe
+item.redGemSpade.name=Red Gem Spade
+item.redGemSword.name=Red Gem Sword
+item.noriumPickaxe.name=Norium Pickaxe
+item.noriumAxe.name=Norium Axe
+item.noriumHoe.name=Norium Hoe
+item.noriumSpade.name=Norium Spade
+item.noriumSword.name=Norium Sword
+
+# ARMOR
+item.redGemHelmet.name=Red Gem Helmet
+item.redGemChestplate.name=Red Gem Chestplate
+item.redGemLeggings.name=Red Gem Leggings
+item.redGemBoots.name=Red Gem Boots
+item.noriumHelmet.name=Norium Helmet
+item.noriumChestplate.name=Norium Chestplate
+item.noriumLeggings.name=Norium Leggings
+item.noriumBoots.name=Norium Boots
+item.breathableRedGemHelmet.name=Breathable Red Gem Helmet
+item.breathableNoriumHelmet.name=Breathable Norium Helmet
+
+# ENTITIES
+entity.MorePlanet.InfectedWorm.name=Infected Worm
+entity.MorePlanet.GiantWorm.name=Giant Worm
+
+# GUI
+itemGroup.MPNibiru=More Planet's : Nibiru
+
+# CONTAINER
+container.nibiru.ancientchest.name=Nibiru Ancient Chest
+container.powercrystal.name=Power Crystal Reactor
+container.nibiru.treasurechest.name=Nibiru Treasure Chest
+
+# DIMENSION
+dimension.Nibiru.name=Nibiru
+
+# DEATH MESSAGES
+death.attack.infectionVine=%1$s was infection by vine
+
+# PLANET DESCRIPTION
+gui.choosePlanet.desc.nibiru=Habitable#CO2 2%#Gravity: 34%

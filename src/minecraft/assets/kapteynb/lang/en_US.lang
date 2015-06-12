@@ -1,0 +1,54 @@
+# More Planet's : Kapteyn B Language Files = English
+
+# BLOCK
+tile.kb.kapteynSurface.name=Kapteyn Ice Surface Stone
+tile.kb.kapteynHardenedIce.name=Kapteyn Ice Hardened Stone
+tile.kb.rockySolidWater.name=Rocky Solid Water
+tile.kapteynBIce.name=Kapteyn Ice
+tile.kb.kapteynBBricks.name=Kapteyn B Dungeon Bricks
+tile.kapteynBTreasureChest.name=Kapteyn B Treasure Chest
+tile.kb.kapteynBStone.name=Kapteyn B Stone
+tile.kb.kapteynBCobblestone.name=Kapteyn B Cobblestone
+tile.kb.kapteynBIridiumOre.name=Iridium Ore
+tile.kb.kapteynBElementiumOre.name=Elementium Ore
+tile.kb.kapteynBFrozenIronOre.name=Frozen Iron Ore
+tile.kb.kapteynBUraniumOre.name=Uranium Ore
+tile.kb.kapteynBTinOre.name=Tin Ore
+tile.kb.kapteynBCopperOre.name=Copper Ore
+tile.kb.kapteynBDiamondOre.name=Diamond Ore
+tile.kb.kapteynBGoldOre.name=Gold Ore
+tile.kb.kapteynBRedstoneOre.name=Redstone Ore
+tile.kapteynBOre.iridiumBlock.name=Iridium Block
+tile.kapteynBOre.elementiumBlock.name=Elementium Block
+tile.kapteynBOre.frozenIronBlock.name=Frozen Iron Block
+tile.kapteynBOre.uraniumBlock.name=Uranium Block
+tile.kb.kapteynBRedstoneOreGlow.name=Glowing Redstone Ore
+tile.kapteynBCobblestoneStairs.name=Kapteyn B Cobblestone Stairs
+tile.wall.kapteynBCobblestoneWall.name=Kapteyn B Cobblestone Wall
+tile.stoneHalfSlab2.kapteynBCobblestoneSlab.name=Kapteyn B Cobblestone Slab
+tile.stoneDoubleSlab2.kapteynBCobblestoneSlab.name=Double Kapteyn B Cobblestone Slab
+
+# ITEMS
+item.kapteynBDungeonKey.name=Kapteyn B Dungeon Key
+item.uraniumBattery.name=Uranium Battery
+item.frozenIronIngot.name=Frozen Iron Ingot
+item.uraniumGem.name=Uranium
+item.frozenIronPlate.name=Frozen Iron Plate
+
+# TOOLS
+
+# ARMORS
+
+# ENTITIES
+
+# GUI
+itemGroup.MPKapteynB=More Planet's : Kapteyn B
+
+# CONTAINER
+container.kapteyn.treasurechest.name=Kapteyn B Treasure Chest
+
+# DIMENSION
+dimension.Kapteyn B.name=Kapteyn B
+
+# PLANET DESCRIPTION
+gui.choosePlanet.desc.kapteyn b=Frozen Planet#No Oxygen#Gravity: 42%
