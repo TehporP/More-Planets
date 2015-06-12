@@ -4,3 +4,9 @@ More Planets is licensed under a [Creative Commons Attribution-NonCommercial-NoD
 
 # More Planets
 A custom planets exploration adventure in Minecraft!
+
+# Author
+SteveKunG - Mod Creator, Texture
+
+# Link
+More Planets - http://minecraftforum.net/forums/thread/2358057
