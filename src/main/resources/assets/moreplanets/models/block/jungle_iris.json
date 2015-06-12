@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "moreplanets:blocks/jungle_iris",
+        "cross": "moreplanets:blocks/jungle_iris"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "moreplanets:block/cream_height10",
+    "textures": {
+        "texture": "moreplanets:blocks/lemon_cream"
+    }
+}

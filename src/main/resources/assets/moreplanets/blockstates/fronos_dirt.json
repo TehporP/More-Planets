@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=fronos_dirt": { "model": "moreplanets:fronos_dirt" },
+        "variant=coarse_fronos_dirt": { "model": "moreplanets:coarse_fronos_dirt" }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "variant=pink_candy_flower": { "model": "moreplanets:pink_candy_flower" },
+		"variant=orange_candy_flower": { "model": "moreplanets:orange_candy_flower" },
+        "variant=green_candy_flower": { "model": "moreplanets:green_candy_flower" },
+		"variant=yellow_candy_flower": { "model": "moreplanets:yellow_candy_flower" },
+		"variant=light_blue_candy_flower": { "model": "moreplanets:light_blue_candy_flower" },
+        "variant=blue_candy_flower": { "model": "moreplanets:blue_candy_flower" },
+		"variant=red_candy_flower": { "model": "moreplanets:red_candy_flower" },
+		"variant=purple_candy_flower": { "model": "moreplanets:purple_candy_flower" }
+    }
+}

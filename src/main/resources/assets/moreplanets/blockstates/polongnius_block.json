@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "variant=cheese_gas": { "model": "moreplanets:cheese_gas" },
+        "variant=solid_cheese_gas": { "model": "moreplanets:solid_cheese_gas" },
+        "variant=polongnius_stone": { "model": "moreplanets:polongnius_stone" },
+        "variant=polongnius_cobblestone": { "model": "moreplanets:polongnius_cobblestone" },
+        "variant=polongnius_copper_ore": { "model": "moreplanets:polongnius_copper_ore" },
+        "variant=polongnius_tin_ore": { "model": "moreplanets:polongnius_tin_ore" },
+        "variant=polongnius_iron_ore": { "model": "moreplanets:polongnius_iron_ore" },
+        "variant=palladium_ore": { "model": "moreplanets:palladium_ore" },
+        "variant=flonium_ore": { "model": "moreplanets:flonium_ore" },
+        "variant=purple_crystal_ore": { "model": "moreplanets:purple_crystal_ore" },
+		"variant=cheese_of_milk_ore": { "model": "moreplanets:cheese_of_milk_ore" },
+        "variant=solid_polongnius_meteoric_iron": { "model": "moreplanets:solid_polongnius_meteoric_iron" },
+        "variant=purple_crystal_block": { "model": "moreplanets:purple_crystal_block" },
+        "variant=palladium_block": { "model": "moreplanets:palladium_block" },
+        "variant=polongnius_slime_dungeon_brick": { "model": "moreplanets:polongnius_slime_dungeon_brick" },
+        "variant=polongnius_dungeon_brick": { "model": "moreplanets:polongnius_dungeon_brick" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "moreplanets:blocks/space_potatoes_stage_3"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "moreplanets:blocks/red_candy_flower",
+        "cross": "moreplanets:blocks/red_candy_flower"
+    }
+}

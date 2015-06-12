@@ -1,0 +1,68 @@
+{
+	"textures": {
+		"meteor": "moreplanets:blocks/eledos_egg_crack",
+		"particle": "moreplanets:blocks/eledos_egg_crack"
+	},
+	"elements": [
+		{
+			"from": [ 3, 0, 3 ],
+			"to": [ 13, 12, 13 ],
+			"faces": {
+				"north": { "uv": [ 3, 4, 13, 16 ], "texture": "#meteor" },
+				"south": { "uv": [ 3, 4, 13, 16 ], "texture": "#meteor" },
+				"east": { "uv": [ 3, 4, 13, 16 ], "texture": "#meteor" },
+				"west": { "uv": [ 3, 4, 13, 16 ], "texture": "#meteor" },
+				"up": { "uv": [ 3, 3, 13, 13 ], "texture": "#meteor" },
+				"down": { "uv": [ 3, 3, 13, 13 ], "texture": "#meteor" }
+			}
+		},
+		{
+			"from": [ 2.5, 0, 2.5 ],
+			"to": [ 13.5, 9, 13.5 ],
+			"faces": {
+				"north": { "uv": [ 2.5, 7, 13.5, 16 ], "texture": "#meteor" },
+				"south": { "uv": [ 2.5, 7, 13.5, 16 ], "texture": "#meteor" },
+				"east": { "uv": [ 2.5, 7, 13.5, 16 ], "texture": "#meteor" },
+				"west": { "uv": [ 2.5, 7, 13.5, 16 ], "texture": "#meteor" },
+				"up": { "uv": [ 2.5, 2.5, 13.5, 13.5 ], "texture": "#meteor" },
+				"down": { "uv": [ 2.5, 2.5, 13.5, 13.5 ], "texture": "#meteor" }
+			}
+		},
+		{
+			"from": [ 1, 0, 3 ],
+			"to": [ 15, 7, 13 ],
+			"faces": {
+				"north": { "uv": [ 1, 9, 15, 16 ], "texture": "#meteor" },
+				"south": { "uv": [ 1, 9, 15, 16 ], "texture": "#meteor" },
+				"east": { "uv": [ 3, 9, 13, 16 ], "texture": "#meteor" },
+				"west": { "uv": [ 3, 9, 13, 16 ], "texture": "#meteor" },
+				"up": { "uv": [ 1, 3, 15, 13 ], "texture": "#meteor" },
+				"down": { "uv": [ 1, 3, 15, 13 ], "texture": "#meteor" }
+			}
+		},
+		{
+			"from": [ 3.5, 0, 2 ],
+			"to": [ 12.5, 7, 14 ],
+			"faces": {
+				"north": { "uv": [ 3.5, 9, 12.5, 16 ], "texture": "#meteor" },
+				"south": { "uv": [ 3.5, 9, 12.5, 16 ], "texture": "#meteor" },
+				"east": { "uv": [ 2, 9, 14, 16 ], "texture": "#meteor" },
+				"west": { "uv": [ 2, 9, 14, 16 ], "texture": "#meteor" },
+				"up": { "uv": [ 3.5, 2, 12.5, 14 ], "texture": "#meteor" },
+				"down": { "uv": [ 3.5, 2, 12.5, 14 ], "texture": "#meteor" }
+			}
+		},
+		{
+			"from": [ 6.5, 0, 4.5 ],
+			"to": [ 9.5, 12.5, 7 ],
+			"faces": {
+				"north": { "uv": [ 6.5, 3.5, 9.5, 16 ], "texture": "#meteor" },
+				"south": { "uv": [ 6.5, 3.5, 9.5, 16 ], "texture": "#meteor" },
+				"east": { "uv": [ 4.5, 3.5, 7, 16 ], "texture": "#meteor" },
+				"west": { "uv": [ 4.5, 3.5, 7, 16 ], "texture": "#meteor" },
+				"up": { "uv": [ 6.5, 4.5, 9.5, 7 ], "texture": "#meteor" },
+				"down": { "uv": [ 6.5, 4.5, 9.5, 7 ], "texture": "#meteor" }
+			}
+		}
+	]
+}

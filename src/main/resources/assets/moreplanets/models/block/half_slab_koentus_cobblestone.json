@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "moreplanets:blocks/koentus_cobblestone",
+        "top": "moreplanets:blocks/koentus_cobblestone",
+        "side": "moreplanets:blocks/koentus_cobblestone"
+    }
+}

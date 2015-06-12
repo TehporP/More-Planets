@@ -1,0 +1,6 @@
+{
+    "variants": {
+		"has_coconut_leaves=false": { "model": "moreplanets:coconut_block" },
+        "has_coconut_leaves=true": { "model": "moreplanets:coconut_block_stem" }
+    }
+}

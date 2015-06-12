@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=coconut_sapling": { "model": "moreplanets:coconut_sapling" },
+		"variant=red_maple_sapling": { "model": "moreplanets:red_maple_sapling" },
+        "variant=yellow_maple_sapling": { "model": "moreplanets:yellow_maple_sapling" },
+		"variant=purple_maple_sapling": { "model": "moreplanets:purple_maple_sapling" }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "strawberry=false": [
+            { "model": "moreplanets:purple_grass" },
+            { "model": "moreplanets:purple_grass", "y": 90 },
+            { "model": "moreplanets:purple_grass", "y": 180 },
+            { "model": "moreplanets:purple_grass", "y": 270 }
+        ],
+        "strawberry=true":  { "model": "moreplanets:purple_grass_strawberry" }
+    }
+}

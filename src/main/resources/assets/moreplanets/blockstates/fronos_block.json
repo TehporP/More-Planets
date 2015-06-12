@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "variant=fronos_rock": { "model": "moreplanets:fronos_rock" },
+        "variant=fronos_cobblestone": { "model": "moreplanets:fronos_cobblestone" },
+        "variant=fronos_iron_ore": { "model": "moreplanets:fronos_iron_ore" },
+        "variant=fronos_coal_ore": { "model": "moreplanets:fronos_coal_ore" },
+        "variant=fronos_aluminum_ore": { "model": "moreplanets:fronos_aluminum_ore" },
+        "variant=fronos_tin_ore": { "model": "moreplanets:fronos_tin_ore" },
+        "variant=fronos_copper_ore": { "model": "moreplanets:fronos_copper_ore" },
+        "variant=fronos_lapis_ore": { "model": "moreplanets:fronos_lapis_ore" },
+        "variant=mineral_crystal_ore": { "model": "moreplanets:mineral_crystal_ore" },
+        "variant=black_diamond_ore": { "model": "moreplanets:black_diamond_ore" },
+        "variant=iridium_ore": { "model": "moreplanets:iridium_ore" },
+        "variant=fronos_stone_brick": { "model": "moreplanets:fronos_stone_brick" },
+        "variant=cracked_fronos_stone_brick": { "model": "moreplanets:cracked_fronos_stone_brick" },
+        "variant=chiseled_fronos_stone_brick": { "model": "moreplanets:chiseled_fronos_stone_brick" },
+        "variant=fronos_dungeon_brick": { "model": "moreplanets:fronos_dungeon_brick" }
+    }
+}

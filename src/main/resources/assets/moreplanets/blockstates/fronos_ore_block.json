@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=iridium_block": { "model": "moreplanets:iridium_block" },
+        "variant=black_diamond_block": { "model": "moreplanets:black_diamond_block" }
+    }
+}

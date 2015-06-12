@@ -1,0 +1,6 @@
+{
+    "parent": "block/tallgrass",
+    "textures": {
+        "cross": "moreplanets:blocks/golden_medium_grass"
+    }
+}

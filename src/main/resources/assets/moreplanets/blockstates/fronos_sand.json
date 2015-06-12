@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "variant=fronos_sand": { "model": "moreplanets:fronos_sand" },
+        "variant=white_sand": { "model": "moreplanets:white_sand" },
+        "variant=cheese_sand": { "model": "moreplanets:cheese_sand" }
+    }
+}

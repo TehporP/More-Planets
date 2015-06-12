@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=strawberry_cloud": { "model": "moreplanets:strawberry_cloud" },
+        "variant=rainbow_cloud": { "model": "moreplanets:rainbow_cloud" }
+    }
+}

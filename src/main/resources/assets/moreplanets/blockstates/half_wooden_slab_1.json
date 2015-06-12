@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "half=bottom,variant=ancient_dark_wood_slab": { "model": "moreplanets:half_slab_ancient_dark_wood" },
+        "half=top,variant=ancient_dark_wood_slab": { "model": "moreplanets:upper_slab_ancient_dark_wood" },
+		"half=bottom,variant=orange_wood_slab": { "model": "moreplanets:half_slab_orange_wood" },
+        "half=top,variant=orange_wood_slab": { "model": "moreplanets:upper_slab_orange_wood" },
+		"half=bottom,variant=crystal_wood_slab": { "model": "moreplanets:half_slab_crystal_wood" },
+        "half=top,variant=crystal_wood_slab": { "model": "moreplanets:upper_slab_crystal_wood" },
+		"half=bottom,variant=coconut_wood_slab": { "model": "moreplanets:half_slab_coconut_wood" },
+        "half=top,variant=coconut_wood_slab": { "model": "moreplanets:upper_slab_coconut_wood" },
+		"half=bottom,variant=maple_wood_slab": { "model": "moreplanets:half_slab_maple_wood" },
+        "half=top,variant=maple_wood_slab": { "model": "moreplanets:upper_slab_maple_wood" }
+    }
+}

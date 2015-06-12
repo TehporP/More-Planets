@@ -1,0 +1,16 @@
+[
+{
+	"modid": "MorePlanet",
+	"name": "More Planets",
+	"description": "A custom planets exploration adventure in Minecraft!",
+	"version": "2.0.0",
+	"mcversion": "1.8",
+	"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2358057-more-planets-mod-galacticraft-add-on",
+	"updateUrl": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2358057-more-planets-mod-galacticraft-add-on",
+	"authors": [
+	"SteveKunG"
+	],
+	"credits": "Thanks for Galacticraft and some people.",
+	"logoFile": ""
+}
+]

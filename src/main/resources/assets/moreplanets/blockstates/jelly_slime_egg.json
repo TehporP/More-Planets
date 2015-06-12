@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "variant=grape_jelly_slime_egg": { "model": "moreplanets:grape_jelly_slime_egg" },
+        "variant=raspberry_jelly_slime_egg": { "model": "moreplanets:raspberry_jelly_slime_egg" },
+        "variant=strawberry_jelly_slime_egg": { "model": "moreplanets:strawberry_jelly_slime_egg" },
+        "variant=berry_jelly_slime_egg": { "model": "moreplanets:berry_jelly_slime_egg" },
+        "variant=lime_jelly_slime_egg": { "model": "moreplanets:lime_jelly_slime_egg" },
+        "variant=orange_jelly_slime_egg": { "model": "moreplanets:orange_jelly_slime_egg" },
+        "variant=green_jelly_slime_egg": { "model": "moreplanets:green_jelly_slime_egg" },
+		"variant=lemon_jelly_slime_egg": { "model": "moreplanets:lemon_jelly_slime_egg" }
+    }
+}

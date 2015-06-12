@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "moreplanets:blocks/chocolate_cake_bread_side",
+        "bottom": "moreplanets:blocks/chocolate_cake_bread_bottom",
+        "top": "moreplanets:blocks/chocolate_cake_bread_bottom",
+        "side": "moreplanets:blocks/chocolate_cake_bread_side",
+        "inside": "moreplanets:blocks/chocolate_cake_bread_side"
+    },
+    "elements": [
+        {   "from": [ 3, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "uv": [ 3, 1, 15, 15 ], "texture": "#bottom", "cullface": "down" },
+                "up":    { "uv": [ 3, 1, 15, 15 ], "texture": "#top" },
+                "north": { "uv": [ 1, 8, 13, 16 ], "texture": "#side" },
+                "south": { "uv": [ 1, 8, 13, 16 ], "texture": "#side" },
+                "west":  { "uv": [ 1, 8, 15, 16 ], "texture": "#inside" },
+                "east":  { "uv": [ 1, 8, 15, 16 ], "texture": "#side" }
+            }
+        }
+    ]
+}

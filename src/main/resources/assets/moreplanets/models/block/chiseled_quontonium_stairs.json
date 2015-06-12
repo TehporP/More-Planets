@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "moreplanets:blocks/chiseled_quontonium",
+        "top": "moreplanets:blocks/chiseled_quontonium",
+        "side": "moreplanets:blocks/chiseled_quontonium"
+    }
+}

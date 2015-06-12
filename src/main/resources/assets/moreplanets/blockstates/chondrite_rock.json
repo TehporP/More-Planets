@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "variant=chondrite_rock": { "model": "moreplanets:chondrite_rock" },
+        "variant=polished_chondrite": { "model": "moreplanets:polished_chondrite" },
+        "variant=chondrite_stone_brick": { "model": "moreplanets:chondrite_stone_brick" }
+    }
+}

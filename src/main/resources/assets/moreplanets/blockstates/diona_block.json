@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "variant=diona_surface_rock": { "model": "moreplanets:diona_surface_rock" },
+        "variant=diona_sub_surface_rock": { "model": "moreplanets:diona_sub_surface_rock" },
+        "variant=diona_rock": { "model": "moreplanets:diona_rock" },
+        "variant=diona_cobblestone": { "model": "moreplanets:diona_cobblestone" },
+        "variant=quontonium_ore": { "model": "moreplanets:quontonium_ore" },
+        "variant=fronisium_ore": { "model": "moreplanets:fronisium_ore" },
+        "variant=diona_tin_ore": { "model": "moreplanets:diona_tin_ore" },
+        "variant=diona_copper_ore": { "model": "moreplanets:diona_copper_ore" },
+        "variant=diona_silicon_ore": { "model": "moreplanets:diona_silicon_ore" },
+        "variant=diona_aluminum_ore": { "model": "moreplanets:diona_aluminum_ore" },
+        "variant=quontonium_block": { "model": "moreplanets:quontonium_block" },
+		"variant=fronisium_block": { "model": "moreplanets:fronisium_block" },
+        "variant=smooth_quontonium": { "model": "moreplanets:smooth_quontonium" },
+        "variant=quontonium_brick": { "model": "moreplanets:quontonium_brick" },
+        "variant=chiseled_quontonium": { "model": "moreplanets:chiseled_quontonium" },
+        "variant=diona_dungeon_brick": { "model": "moreplanets:diona_dungeon_brick" }
+    }
+}

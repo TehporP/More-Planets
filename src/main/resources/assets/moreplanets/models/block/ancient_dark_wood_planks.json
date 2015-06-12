@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "moreplanets:blocks/ancient_dark_wood_planks"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "half=bottom,variant=diona_dungeon_brick_slab": { "model": "moreplanets:half_slab_diona_dungeon_brick" },
+        "half=top,variant=diona_dungeon_brick_slab": { "model": "moreplanets:upper_slab_diona_dungeon_brick" },
+		"half=bottom,variant=polongnius_dungeon_brick_slab": { "model": "moreplanets:half_slab_polongnius_dungeon_brick" },
+        "half=top,variant=polongnius_dungeon_brick_slab": { "model": "moreplanets:upper_slab_polongnius_dungeon_brick" },
+		"half=bottom,variant=nibiru_dungeon_brick_slab": { "model": "moreplanets:half_slab_nibiru_dungeon_brick" },
+        "half=top,variant=nibiru_dungeon_brick_slab": { "model": "moreplanets:upper_slab_nibiru_dungeon_brick" },
+		"half=bottom,variant=koentus_dungeon_brick_slab": { "model": "moreplanets:half_slab_koentus_dungeon_brick" },
+        "half=top,variant=koentus_dungeon_brick_slab": { "model": "moreplanets:upper_slab_koentus_dungeon_brick" },
+		"half=bottom,variant=fronos_dungeon_brick_slab": { "model": "moreplanets:half_slab_fronos_dungeon_brick" },
+        "half=top,variant=fronos_dungeon_brick_slab": { "model": "moreplanets:upper_slab_fronos_dungeon_brick" },
+		"half=bottom,variant=kapteyn_b_dungeon_brick_slab": { "model": "moreplanets:half_slab_kapteyn_b_dungeon_brick" },
+        "half=top,variant=kapteyn_b_dungeon_brick_slab": { "model": "moreplanets:upper_slab_kapteyn_b_dungeon_brick" },
+		"half=bottom,variant=sirius_b_dungeon_brick_slab": { "model": "moreplanets:half_slab_sirius_b_dungeon_brick" },
+        "half=top,variant=sirius_b_dungeon_brick_slab": { "model": "moreplanets:upper_slab_sirius_b_dungeon_brick" },
+		"half=bottom,variant=mercury_dungeon_brick_slab": { "model": "moreplanets:half_slab_mercury_dungeon_brick" },
+        "half=top,variant=mercury_dungeon_brick_slab": { "model": "moreplanets:upper_slab_mercury_dungeon_brick" }
+    }
+}

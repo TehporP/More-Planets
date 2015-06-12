@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "variant=vanilla_cream": { "model": "moreplanets:vanilla_cream" },
+        "variant=chocolate_cream": { "model": "moreplanets:chocolate_cream" },
+        "variant=strawberry_cream": { "model": "moreplanets:strawberry_cream" },
+        "variant=orange_cream": { "model": "moreplanets:orange_cream" },
+        "variant=tea_cream": { "model": "moreplanets:tea_cream" },
+        "variant=lemon_cream": { "model": "moreplanets:lemon_cream" }
+    }
+}

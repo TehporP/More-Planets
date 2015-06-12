@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "axis=y,variant=ancient_dark_wood":    { "model": "moreplanets:ancient_dark_wood_log" },
+        "axis=z,variant=ancient_dark_wood":     { "model": "moreplanets:ancient_dark_wood_log_side" },
+        "axis=x,variant=ancient_dark_wood":     { "model": "moreplanets:ancient_dark_wood_log_side", "y": 90 },
+        "axis=none,variant=ancient_dark_wood":   { "model": "moreplanets:ancient_dark_wood_bark" },
+		"axis=y,variant=orange_wood":    { "model": "moreplanets:orange_wood_log" },
+        "axis=z,variant=orange_wood":     { "model": "moreplanets:orange_wood_log_side" },
+        "axis=x,variant=orange_wood":     { "model": "moreplanets:orange_wood_log_side", "y": 90 },
+        "axis=none,variant=orange_wood":   { "model": "moreplanets:orange_wood_bark" }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "half=bottom,variant=diona_cobblestone_slab": { "model": "moreplanets:half_slab_diona_cobblestone" },
+        "half=top,variant=diona_cobblestone_slab": { "model": "moreplanets:upper_slab_diona_cobblestone" },
+		"half=bottom,variant=quontonium_brick_slab": { "model": "moreplanets:half_slab_quontonium_brick" },
+        "half=top,variant=quontonium_brick_slab": { "model": "moreplanets:upper_slab_quontonium_brick" },
+		"half=bottom,variant=chiseled_quontonium_slab": { "model": "moreplanets:half_slab_chiseled_quontonium" },
+        "half=top,variant=chiseled_quontonium_slab": { "model": "moreplanets:upper_slab_chiseled_quontonium" },
+		"half=bottom,variant=polongnius_cobblestone_slab": { "model": "moreplanets:half_slab_polongnius_cobblestone" },
+        "half=top,variant=polongnius_cobblestone_slab": { "model": "moreplanets:upper_slab_polongnius_cobblestone" },
+		"half=bottom,variant=nibiru_cobblestone_slab": { "model": "moreplanets:half_slab_nibiru_cobblestone" },
+        "half=top,variant=nibiru_cobblestone_slab": { "model": "moreplanets:upper_slab_nibiru_cobblestone" },
+		"half=bottom,variant=koentus_cobblestone_slab": { "model": "moreplanets:half_slab_koentus_cobblestone" },
+        "half=top,variant=koentus_cobblestone_slab": { "model": "moreplanets:upper_slab_koentus_cobblestone" },
+		"half=bottom,variant=koentus_ancient_stone_slab": { "model": "moreplanets:half_slab_koentus_ancient_stone" },
+        "half=top,variant=koentus_ancient_stone_slab": { "model": "moreplanets:upper_slab_koentus_ancient_stone" },
+		"half=bottom,variant=koentus_ancient_stone_brick_slab": { "model": "moreplanets:half_slab_koentus_ancient_stone_brick" },
+        "half=top,variant=koentus_ancient_stone_brick_slab": { "model": "moreplanets:upper_slab_koentus_ancient_stone_brick" }
+    }
+}

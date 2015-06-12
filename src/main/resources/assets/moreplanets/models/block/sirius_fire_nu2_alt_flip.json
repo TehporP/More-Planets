@@ -1,0 +1,7 @@
+{
+    "parent": "moreplanets:block/sirius_fire_nu2_flip",
+    "textures": {
+        "particle": "moreplanets:blocks/sirius_fire_layer_1",
+        "fire": "moreplanets:blocks/sirius_fire_layer_1"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "moreplanets:blocks/red_maple_sapling"
+    }
+}

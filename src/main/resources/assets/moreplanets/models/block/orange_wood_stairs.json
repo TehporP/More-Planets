@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "moreplanets:blocks/orange_wood_planks",
+        "top": "moreplanets:blocks/orange_wood_planks",
+        "side": "moreplanets:blocks/orange_wood_planks"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "variant=fronos_short_grass": { "model": "moreplanets:fronos_short_grass" },
+		"variant=fronos_medium_grass": { "model": "moreplanets:fronos_medium_grass" },
+        "variant=fronos_tall_grass": { "model": "moreplanets:fronos_tall_grass" },
+		"variant=pink_short_grass": { "model": "moreplanets:pink_short_grass" },
+		"variant=pink_medium_grass": { "model": "moreplanets:pink_medium_grass" },
+        "variant=pink_tall_grass": { "model": "moreplanets:pink_tall_grass" },
+		"variant=purple_short_grass": { "model": "moreplanets:purple_short_grass" },
+		"variant=purple_medium_grass": { "model": "moreplanets:purple_medium_grass" },
+        "variant=purple_tall_grass": { "model": "moreplanets:purple_tall_grass" },
+		"variant=plains_short_grass": { "model": "moreplanets:plains_short_grass" },
+		"variant=plains_medium_grass": { "model": "moreplanets:plains_medium_grass" },
+        "variant=plains_tall_grass": { "model": "moreplanets:plains_tall_grass" },
+		"variant=golden_short_grass": { "model": "moreplanets:golden_short_grass" },
+		"variant=golden_medium_grass": { "model": "moreplanets:golden_medium_grass" },
+        "variant=golden_tall_grass": { "model": "moreplanets:golden_tall_grass" }
+    }
+}

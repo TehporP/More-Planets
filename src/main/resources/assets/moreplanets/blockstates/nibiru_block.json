@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "variant=nibiru_surface_rock": { "model": "moreplanets:nibiru_surface_rock" },
+        "variant=nibiru_sub_surface_rock": { "model": "moreplanets:nibiru_sub_surface_rock" },
+        "variant=nibiru_rock": { "model": "moreplanets:nibiru_rock" },
+        "variant=nibiru_cobblestone": { "model": "moreplanets:nibiru_cobblestone" },
+        "variant=ichorius_ore": { "model": "moreplanets:ichorius_ore" },
+        "variant=norium_ore": { "model": "moreplanets:norium_ore" },
+        "variant=nibiru_diamond_ore": { "model": "moreplanets:nibiru_diamond_ore" },
+        "variant=nibiru_coal_ore": { "model": "moreplanets:nibiru_coal_ore" },
+        "variant=red_gem_ore": { "model": "moreplanets:red_gem_ore" },
+        "variant=ichorius_block": { "model": "moreplanets:ichorius_block" },
+        "variant=norium_block": { "model": "moreplanets:norium_block" },
+        "variant=red_gem_block": { "model": "moreplanets:red_gem_block" },
+        "variant=nibiru_dungeon_brick": { "model": "moreplanets:nibiru_dungeon_brick" }
+    }
+}

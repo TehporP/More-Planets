@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=glowing_pink_coral": { "model": "moreplanets:glowing_pink_coral" },
+		"variant=colunus_coral": { "model": "moreplanets:colunus_coral" }
+    }
+}

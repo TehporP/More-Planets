@@ -1,0 +1,12 @@
+{
+    "variants": {
+		"variant=diona_cobblestone_slab": { "model": "moreplanets:diona_cobblestone" },
+		"variant=quontonium_brick_slab": { "model": "moreplanets:quontonium_brick" },
+		"variant=chiseled_quontonium_slab": { "model": "moreplanets:chiseled_quontonium" },
+		"variant=polongnius_cobblestone_slab": { "model": "moreplanets:polongnius_cobblestone" },
+		"variant=nibiru_cobblestone_slab": { "model": "moreplanets:nibiru_cobblestone" },
+		"variant=koentus_cobblestone_slab": { "model": "moreplanets:koentus_cobblestone" },
+		"variant=koentus_ancient_stone_slab": { "model": "moreplanets:koentus_ancient_stone" },
+		"variant=koentus_ancient_stone_brick_slab": { "model": "moreplanets:koentus_ancient_stone_brick" }
+    }
+}

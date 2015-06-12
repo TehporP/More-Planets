@@ -1,0 +1,20 @@
+{
+    "textures": {
+        "segment": "moreplanets:blocks/crystal_segment",
+        "particle": "moreplanets:blocks/crystal_segment"
+    },
+    "elements": [
+        {   
+        	"from": [ 6, 0, 6 ],
+            "to": [ 10, 16, 10 ],
+            "faces": {
+                "down":  { "uv": [ 6, 6, 10, 10 ], "texture": "#segment" },
+                "up":    { "uv": [ 6, 6, 10, 10 ], "texture": "#segment" },
+                "north": { "uv": [ 6, 0, 10, 16 ], "texture": "#segment" },
+                "south": { "uv": [ 6, 0, 10, 16 ], "texture": "#segment" },
+                "west":  { "uv": [ 6, 0, 10, 16 ], "texture": "#segment" },
+                "east":  { "uv": [ 6, 0, 10, 16 ], "texture": "#segment" }
+            }
+        }
+    ]
+}

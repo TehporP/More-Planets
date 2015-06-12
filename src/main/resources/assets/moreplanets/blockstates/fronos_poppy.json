@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "variant=white_poppy": { "model": "moreplanets:white_poppy" },
+		"variant=orange_poppy": { "model": "moreplanets:orange_poppy" },
+        "variant=purple_poppy": { "model": "moreplanets:purple_poppy" }
+    }
+}

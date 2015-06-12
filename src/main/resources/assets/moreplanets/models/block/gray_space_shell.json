@@ -1,0 +1,6 @@
+{
+    "parent": "moreplanets:block/shell",
+    "textures": {
+        "texture": "moreplanets:blocks/gray_space_shell"
+    }
+}

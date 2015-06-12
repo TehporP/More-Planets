@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_n",
+    "textures": {
+        "texture": "moreplanets:blocks/crystal_wood_planks"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y,variant=crystal_wood":    { "model": "moreplanets:crystal_wood_log" },
+        "axis=z,variant=crystal_wood":     { "model": "moreplanets:crystal_wood_log_side" },
+        "axis=x,variant=crystal_wood":     { "model": "moreplanets:crystal_wood_log_side", "y": 90 },
+        "axis=none,variant=crystal_wood":   { "model": "moreplanets:crystal_wood_bark" }
+    }
+}

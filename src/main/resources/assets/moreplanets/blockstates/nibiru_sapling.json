@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=ancient_dark_sapling": { "model": "moreplanets:ancient_dark_sapling" },
+        "variant=orange_sapling": { "model": "moreplanets:orange_sapling" }
+    }
+}

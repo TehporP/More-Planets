@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "moreplanets:blocks/uranium_bomb_side",
+        "top": "moreplanets:blocks/uranium_bomb_side",
+        "side": "moreplanets:blocks/uranium_bomb"
+    }
+}

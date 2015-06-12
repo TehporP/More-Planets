@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_nse",
+    "textures": {
+        "wall": "moreplanets:blocks/cracked_fronos_stone_brick"
+    }
+}

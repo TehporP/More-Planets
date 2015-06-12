@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "moreplanets:blocks/white_poppy",
+        "cross": "moreplanets:blocks/white_poppy"
+    }
+}

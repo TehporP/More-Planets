@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "orange=false": [
+            { "model": "moreplanets:plains_grass" },
+            { "model": "moreplanets:plains_grass", "y": 90 },
+            { "model": "moreplanets:plains_grass", "y": 180 },
+            { "model": "moreplanets:plains_grass", "y": 270 }
+        ],
+        "orange=true":  { "model": "moreplanets:plains_grass_orange" }
+    }
+}

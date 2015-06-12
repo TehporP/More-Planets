@@ -1,0 +1,7 @@
+
+{
+    "parent": "block/fence_n",
+    "textures": {
+        "texture": "moreplanets:blocks/maple_wood_planks"
+    }
+}

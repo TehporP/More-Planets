@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "variant=phobos_surface_rock": { "model": "moreplanets:phobos_surface_rock" },
+        "variant=phobos_sub_surface_rock": { "model": "moreplanets:phobos_sub_surface_rock" },
+        "variant=phobos_rock": { "model": "moreplanets:phobos_rock" },
+		"variant=phobos_cobblestone": { "model": "moreplanets:phobos_cobblestone" },
+        "variant=phobos_tin_ore": { "model": "moreplanets:phobos_tin_ore" },
+        "variant=phobos_copper_ore": { "model": "moreplanets:phobos_copper_ore" },
+        "variant=phobos_iron_ore": { "model": "moreplanets:phobos_iron_ore" },
+        "variant=phobos_desh_ore": { "model": "moreplanets:phobos_desh_ore" }
+    }
+}

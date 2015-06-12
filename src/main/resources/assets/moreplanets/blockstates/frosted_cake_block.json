@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "variant=cake_bread_block": { "model": "moreplanets:cake_bread_block" },
+        "variant=white_cake_bread_block": { "model": "moreplanets:white_cake_bread_block" },
+        "variant=chocolate_cake_bread_block": { "model": "moreplanets:chocolate_cake_bread_block" },
+        "variant=frosted_white_cake_block": { "model": "moreplanets:frosted_white_cake_block" },
+        "variant=frosted_pink_cake_block": { "model": "moreplanets:frosted_pink_cake_block" },
+        "variant=frosted_white_cake_block2": { "model": "moreplanets:frosted_white_cake_block2" },
+        "variant=frosted_chocolate_cake_block": { "model": "moreplanets:frosted_chocolate_cake_block" }
+    }
+}

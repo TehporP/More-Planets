@@ -1,0 +1,6 @@
+{
+    "parent": "moreplanets:block/slime_egg",
+    "textures": {
+        "all": "moreplanets:blocks/strawberry_jelly_block"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "tea=false": [
+            { "model": "moreplanets:golden_grass" },
+            { "model": "moreplanets:golden_grass", "y": 90 },
+            { "model": "moreplanets:golden_grass", "y": 180 },
+            { "model": "moreplanets:golden_grass", "y": 270 }
+        ],
+        "tea=true":  { "model": "moreplanets:golden_grass_tea" }
+    }
+}

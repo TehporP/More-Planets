@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=kapteyn_b_ice": { "model": "moreplanets:kapteyn_b_ice" },
+        "variant=dirty_kapteyn_b_ice": { "model": "moreplanets:dirty_kapteyn_b_ice" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "moreplanets:blocks/sirius_b_carbon_cobblestone",
+        "top": "moreplanets:blocks/sirius_b_carbon_cobblestone",
+        "side": "moreplanets:blocks/sirius_b_carbon_cobblestone"
+    }
+}

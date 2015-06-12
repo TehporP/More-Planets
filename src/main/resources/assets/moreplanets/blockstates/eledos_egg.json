@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=eledos_egg": { "model": "moreplanets:eledos_egg" },
+        "variant=eledos_egg_crack": { "model": "moreplanets:eledos_egg_crack" }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "variant=pluto_surface_rock": { "model": "moreplanets:pluto_surface_rock" },
+        "variant=pluto_sub_surface_rock": { "model": "moreplanets:pluto_sub_surface_rock" },
+        "variant=pluto_rock": { "model": "moreplanets:pluto_rock" },
+        "variant=pluto_cobblestone": { "model": "moreplanets:pluto_cobblestone" },
+        "variant=pluto_meteoric_iron_ore": { "model": "moreplanets:pluto_meteoric_iron_ore" },
+        "variant=pluto_frozen_iron_ore": { "model": "moreplanets:pluto_frozen_iron_ore" },
+        "variant=pluto_iron_ore": { "model": "moreplanets:pluto_iron_ore" },
+        "variant=xeonium_gem_ore": { "model": "moreplanets:xeonium_gem_ore" },
+        "variant=pluto_dungeon_brick": { "model": "moreplanets:pluto_dungeon_brick" }
+    }
+}

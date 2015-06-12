@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "variant=deimos_surface_rock": { "model": "moreplanets:deimos_surface_rock" },
+        "variant=deimos_sub_surface_rock": { "model": "moreplanets:deimos_sub_surface_rock" },
+        "variant=deimos_rock": { "model": "moreplanets:deimos_rock" },
+		"variant=deimos_cobblestone": { "model": "moreplanets:deimos_cobblestone" },
+        "variant=deimos_tin_ore": { "model": "moreplanets:deimos_tin_ore" },
+        "variant=deimos_copper_ore": { "model": "moreplanets:deimos_copper_ore" },
+        "variant=deimos_iron_ore": { "model": "moreplanets:deimos_iron_ore" },
+        "variant=deimos_desh_ore": { "model": "moreplanets:deimos_desh_ore" }
+    }
+}

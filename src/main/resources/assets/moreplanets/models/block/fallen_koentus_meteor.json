@@ -1,0 +1,68 @@
+{
+	"textures": {
+		"meteor": "moreplanets:blocks/fallen_koentus_meteor",
+		"particle": "moreplanets:blocks/fallen_koentus_meteor"
+	},
+	"elements": [
+		{
+			"from": [ 3.5, 3.5, 3.5 ],
+			"to": [ 12.5, 13, 12.5 ],
+			"faces": {
+				"north": { "uv": [ 3.5, 3, 12.5, 12.5 ], "texture": "#meteor" },
+				"south": { "uv": [ 3.5, 3, 12.5, 12.5 ], "texture": "#meteor" },
+				"east": { "uv": [ 3.5, 3, 12.5, 12.5 ], "texture": "#meteor" },
+				"west": { "uv": [ 3.5, 3, 12.5, 12.5 ], "texture": "#meteor" },
+				"up": { "uv": [ 3.5, 3.5, 12.5, 12.5 ], "texture": "#meteor" },
+				"down": { "uv": [ 3.5, 3.5, 12.5, 12.5 ], "texture": "#meteor" }
+			}
+		},
+		{
+			"from": [ 4.5, 13, 4.5 ],
+			"to": [ 11.5, 13.75, 11.5 ],
+			"faces": {
+				"north": { "uv": [ 4.5, 2.5, 11.5, 3 ], "texture": "#meteor" },
+				"south": { "uv": [ 4.5, 2.5, 11.5, 3 ], "texture": "#meteor" },
+				"east": { "uv": [ 4.5, 2.5, 11.5, 3 ], "texture": "#meteor" },
+				"west": { "uv": [ 4.5, 2.5, 11.5, 3 ], "texture": "#meteor" },
+				"up": { "uv": [ 4.5, 4.5, 11.5, 11.5 ], "texture": "#meteor" },
+				"down": { "uv": [ 4.5, 4.5, 11.5, 11.5 ], "texture": "#meteor" }
+			}
+		},
+		{
+			"from": [ 2.75, 4.5, 4 ],
+			"to": [ 13.25, 11.5, 12 ],
+			"faces": {
+				"north": { "uv": [ 3, 4.5, 13, 11.5 ], "texture": "#meteor" },
+				"south": { "uv": [ 3, 4.5, 13, 11.5 ], "texture": "#meteor" },
+				"east": { "uv": [ 4, 4.5, 12, 11.5 ], "texture": "#meteor" },
+				"west": { "uv": [ 4, 4.5, 12, 11.5 ], "texture": "#meteor" },
+				"up": { "uv": [ 3, 4, 13, 12 ], "texture": "#meteor" },
+				"down": { "uv": [ 3, 4, 13, 12 ], "texture": "#meteor" }
+			}
+		},
+		{
+			"from": [ 4.5, 4.5, 2.75 ],
+			"to": [ 11.5, 11.5, 13.25 ],
+			"faces": {
+				"north": { "uv": [ 4.5, 4.5, 11.5, 11.5 ], "texture": "#meteor" },
+				"south": { "uv": [ 4.5, 4.5, 11.5, 11.5 ], "texture": "#meteor" },
+				"east": { "uv": [ 3, 4.5, 13, 11.5 ], "texture": "#meteor" },
+				"west": { "uv": [ 3, 4.5, 13, 11.5 ], "texture": "#meteor" },
+				"up": { "uv": [ 4.5, 3, 11.5, 13 ], "texture": "#meteor" },
+				"down": { "uv": [ 4.5, 3, 11.5, 13 ], "texture": "#meteor" }
+			}
+		},
+		{
+			"from": [ 6.5, 12.75, 8 ],
+			"to": [ 9.5, 14.25, 11 ],
+			"faces": {
+				"north": { "uv": [ 6.5, 2, 9.5, 3 ], "texture": "#meteor" },
+				"south": { "uv": [ 6.5, 2, 9.5, 3 ], "texture": "#meteor" },
+				"east": { "uv": [ 8, 2, 11, 3 ], "texture": "#meteor" },
+				"west": { "uv": [ 8, 2, 11, 3 ], "texture": "#meteor" },
+				"up": { "uv": [ 6.5, 8, 9.5, 11 ], "texture": "#meteor" },
+				"down": { "uv": [ 6.5, 8, 9.5, 11 ], "texture": "#meteor" }
+			}
+		}
+	]
+}

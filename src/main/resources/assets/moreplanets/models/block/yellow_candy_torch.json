@@ -1,0 +1,6 @@
+{
+    "parent": "block/torch",
+    "textures": {
+        "torch": "moreplanets:blocks/yellow_candy_torch"
+    }
+}

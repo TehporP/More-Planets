@@ -1,0 +1,6 @@
+{
+    "parent": "moreplanets:block/cream_height4",
+    "textures": {
+        "texture": "moreplanets:blocks/tea_cream"
+    }
+}

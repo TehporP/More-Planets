@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "moreplanets:blocks/sky_mushroom",
+        "cross": "moreplanets:blocks/sky_mushroom"
+    }
+}

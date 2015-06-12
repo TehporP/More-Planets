@@ -1,0 +1,12 @@
+{
+    "variants": {
+		"variant=diona_dungeon_brick_slab": { "model": "moreplanets:diona_dungeon_brick" },
+		"variant=polongnius_dungeon_brick_slab": { "model": "moreplanets:polongnius_dungeon_brick" },
+		"variant=nibiru_dungeon_brick_slab": { "model": "moreplanets:nibiru_dungeon_brick" },
+		"variant=koentus_dungeon_brick_slab": { "model": "moreplanets:koentus_dungeon_brick" },
+		"variant=fronos_dungeon_brick_slab": { "model": "moreplanets:fronos_dungeon_brick" },
+		"variant=kapteyn_b_dungeon_brick_slab": { "model": "moreplanets:kapteyn_b_dungeon_brick" },
+		"variant=sirius_b_dungeon_brick_slab": { "model": "moreplanets:sirius_b_dungeon_brick" },
+		"variant=mercury_dungeon_brick_slab": { "model": "moreplanets:mercury_dungeon_brick" }
+    }
+}

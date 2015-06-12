@@ -1,0 +1,7 @@
+{
+    "parent": "moreplanets:block/cream_head",
+    "textures": {
+        "particle": "moreplanets:blocks/strawberry_cream",
+        "texture": "moreplanets:blocks/strawberry_cream"
+    }
+}

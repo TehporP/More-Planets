@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "moreplanets:blocks/glass_gem_corn_1"
+    }
+}

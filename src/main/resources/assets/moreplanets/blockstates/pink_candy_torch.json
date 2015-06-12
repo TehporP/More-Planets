@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=up": { "model": "moreplanets:pink_candy_torch" },
+        "facing=east": { "model": "moreplanets:pink_candy_torch_wall" },
+        "facing=south": { "model": "moreplanets:pink_candy_torch_wall", "y": 90 },
+        "facing=west": { "model": "moreplanets:pink_candy_torch_wall", "y": 180 },
+        "facing=north": { "model": "moreplanets:pink_candy_torch_wall", "y": 270 }
+    }
+}

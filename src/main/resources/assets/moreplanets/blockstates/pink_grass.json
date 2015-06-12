@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "chocolate=false": [
+            { "model": "moreplanets:pink_grass" },
+            { "model": "moreplanets:pink_grass", "y": 90 },
+            { "model": "moreplanets:pink_grass", "y": 180 },
+            { "model": "moreplanets:pink_grass", "y": 270 }
+        ],
+        "chocolate=true":  { "model": "moreplanets:pink_grass_chocolate" }
+    }
+}

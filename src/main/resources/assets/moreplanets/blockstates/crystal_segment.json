@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=x": { "model": "moreplanets:crystal_segment", "x": 90, "y": 90 },
+        "axis=y": { "model": "moreplanets:crystal_segment" },
+        "axis=z": { "model": "moreplanets:crystal_segment", "x": 90 }
+    }
+}

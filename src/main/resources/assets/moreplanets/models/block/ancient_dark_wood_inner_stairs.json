@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "moreplanets:blocks/ancient_dark_wood_planks",
+        "top": "moreplanets:blocks/ancient_dark_wood_planks",
+        "side": "moreplanets:blocks/ancient_dark_wood_planks"
+    }
+}

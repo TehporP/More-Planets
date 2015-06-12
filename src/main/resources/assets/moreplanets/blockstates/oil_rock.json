@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=oil_rock": { "model": "moreplanets:oil_rock" },
+        "variant=oil_ore": { "model": "moreplanets:oil_ore" }
+    }
+}

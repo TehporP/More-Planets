@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "moreplanets:blocks/log_ancient_dark_top",
+        "side": "moreplanets:blocks/log_ancient_dark_side"
+    }
+}

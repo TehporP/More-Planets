@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=orange_leaves_stage_1": { "model": "moreplanets:orange_leaves1" },
+        "variant=orange_leaves_stage_2": { "model": "moreplanets:orange_leaves2" },
+        "variant=orange_leaves_stage_3": { "model": "moreplanets:orange_leaves3" },
+        "variant=orange_leaves_stage_4": { "model": "moreplanets:orange_leaves4" }
+    }
+}

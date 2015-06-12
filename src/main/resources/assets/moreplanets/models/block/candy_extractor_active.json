@@ -1,0 +1,10 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "moreplanets:blocks/candy_extractor_top",
+        "front": "moreplanets:blocks/candy_extractor_front_on",
+        "side": "moreplanets:blocks/candy_extractor_side",
+		"down": "moreplanets:blocks/candy_extractor_bottom",
+		"particle": "moreplanets:blocks/candy_extractor_side"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "variant=io_surface_rock": { "model": "moreplanets:io_surface_rock" },
+        "variant=io_sub_surface_rock": { "model": "moreplanets:io_sub_surface_rock" },
+        "variant=io_rock": { "model": "moreplanets:io_rock" },
+		"variant=io_cobblestone": { "model": "moreplanets:io_cobblestone" },
+        "variant=io_sulfur_ore": { "model": "moreplanets:io_sulfur_ore" },
+        "variant=ash_stone": { "model": "moreplanets:ash_stone" },
+        "variant=ash_cobblestone": { "model": "moreplanets:ash_cobblestone" },
+        "variant=io_silicate_rock": { "model": "moreplanets:io_silicate_rock" },
+        "variant=io_dungeon_brick": { "model": "moreplanets:io_dungeon_brick" }
+    }
+}

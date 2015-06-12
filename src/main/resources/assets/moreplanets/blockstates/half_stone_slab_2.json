@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "half=bottom,variant=fronos_cobblestone_slab": { "model": "moreplanets:half_slab_fronos_cobblestone" },
+        "half=top,variant=fronos_cobblestone_slab": { "model": "moreplanets:upper_slab_fronos_cobblestone" },
+		"half=bottom,variant=fronos_stone_brick_slab": { "model": "moreplanets:half_slab_fronos_stone_brick" },
+        "half=top,variant=fronos_stone_brick_slab": { "model": "moreplanets:upper_slab_fronos_stone_brick" },
+		"half=bottom,variant=cracked_fronos_stone_brick_slab": { "model": "moreplanets:half_slab_cracked_fronos_stone_brick" },
+        "half=top,variant=cracked_fronos_stone_brick_slab": { "model": "moreplanets:upper_slab_cracked_fronos_stone_brick" },
+		"half=bottom,variant=kapteyn_b_cracked_ice_slab": { "model": "moreplanets:half_slab_kapteyn_b_cracked_ice" },
+        "half=top,variant=kapteyn_b_cracked_ice_slab": { "model": "moreplanets:upper_slab_kapteyn_b_cracked_ice" },
+		"half=bottom,variant=sirius_b_carbon_cobblestone_slab": { "model": "moreplanets:half_slab_sirius_b_carbon_cobblestone" },
+        "half=top,variant=sirius_b_carbon_cobblestone_slab": { "model": "moreplanets:upper_slab_sirius_b_carbon_cobblestone" },
+		"half=bottom,variant=mercury_cobblestone_slab": { "model": "moreplanets:half_slab_mercury_cobblestone" },
+        "half=top,variant=mercury_cobblestone_slab": { "model": "moreplanets:upper_slab_mercury_cobblestone" }
+    }
+}

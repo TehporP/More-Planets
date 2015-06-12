@@ -1,0 +1,10 @@
+
+{
+    "variants": {
+        "facing=up": { "model": "moreplanets:white_crystal_torch" },
+        "facing=east": { "model": "moreplanets:white_crystal_torch_wall" },
+        "facing=south": { "model": "moreplanets:white_crystal_torch_wall", "y": 90 },
+        "facing=west": { "model": "moreplanets:white_crystal_torch_wall", "y": 180 },
+        "facing=north": { "model": "moreplanets:white_crystal_torch_wall", "y": 270 }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=koentus_ice": { "model": "moreplanets:koentus_ice" },
+        "variant=glowing_koentus_ice": { "model": "moreplanets:glowing_koentus_ice" }
+    }
+}

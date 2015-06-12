@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "moreplanets:uranium_bomb" },
+            { "model": "moreplanets:uranium_bomb", "y": 90 },
+            { "model": "moreplanets:uranium_bomb", "y": 180 },
+            { "model": "moreplanets:uranium_bomb", "y": 270 }
+        ]
+    }
+}

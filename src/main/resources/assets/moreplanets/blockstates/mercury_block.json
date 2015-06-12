@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "variant=mercury_surface_rock": { "model": "moreplanets:mercury_surface_rock" },
+        "variant=mercury_sub_surface_rock": { "model": "moreplanets:mercury_sub_surface_rock" },
+        "variant=mercury_rock": { "model": "moreplanets:mercury_rock" },
+        "variant=mercury_cobblestone": { "model": "moreplanets:mercury_cobblestone" },
+        "variant=mercury_tin_ore": { "model": "moreplanets:mercury_tin_ore" },
+        "variant=mercury_copper_ore": { "model": "moreplanets:mercury_copper_ore" },
+        "variant=mercury_aluminum_ore": { "model": "moreplanets:mercury_aluminum_ore" },
+        "variant=mercury_iron_ore": { "model": "moreplanets:mercury_iron_ore" },
+        "variant=metal_meteoric_iron_ore": { "model": "moreplanets:metal_meteoric_iron_ore" },
+        "variant=mercury_silicate_rock": { "model": "moreplanets:mercury_silicate_rock" },
+        "variant=solid_metal_meteoric_iron": { "model": "moreplanets:solid_metal_meteoric_iron" },
+        "variant=mercury_dungeon_brick": { "model": "moreplanets:mercury_dungeon_brick" }
+    }
+}

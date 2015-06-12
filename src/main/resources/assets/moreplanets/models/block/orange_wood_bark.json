@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "moreplanets:blocks/log_orange_side"
+    }
+}

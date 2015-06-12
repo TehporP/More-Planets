@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_ne",
+    "textures": {
+        "wall": "moreplanets:blocks/koentus_ancient_stone_brick"
+    }
+}

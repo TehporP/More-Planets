@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "variant=venus_surface_rock": { "model": "moreplanets:venus_surface_rock" },
+        "variant=venus_sub_surface_rock": { "model": "moreplanets:venus_sub_surface_rock" },
+        "variant=venus_rock": { "model": "moreplanets:venus_rock" },
+        "variant=venus_cobblestone": { "model": "moreplanets:venus_cobblestone" },
+        "variant=venus_sulfur_ore": { "model": "moreplanets:venus_sulfur_ore" },
+        "variant=venus_lead_ore": { "model": "moreplanets:venus_lead_ore" },
+        "variant=venus_tin_ore": { "model": "moreplanets:venus_tin_ore" },
+        "variant=venus_copper_ore": { "model": "moreplanets:venus_copper_ore" },
+        "variant=venus_coal_ore": { "model": "moreplanets:venus_coal_ore" },
+        "variant=venus_iron_ore": { "model": "moreplanets:venus_iron_ore" },
+        "variant=venus_gold_ore": { "model": "moreplanets:venus_gold_ore" },
+		"variant=lead_block": { "model": "moreplanets:lead_block" },
+        "variant=venus_stone_brick": { "model": "moreplanets:venus_stone_brick" },
+        "variant=cracked_venus_stone_brick": { "model": "moreplanets:cracked_venus_stone_brick" },
+        "variant=venus_dungeon_brick": { "model": "moreplanets:venus_dungeon_brick" }
+    }
+}

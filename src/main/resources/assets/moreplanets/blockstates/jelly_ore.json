@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "variant=grape_jelly_ore": { "model": "moreplanets:grape_jelly_ore" },
+        "variant=raspberry_jelly_ore": { "model": "moreplanets:raspberry_jelly_ore" },
+        "variant=strawberry_jelly_ore": { "model": "moreplanets:strawberry_jelly_ore" },
+        "variant=berry_jelly_ore": { "model": "moreplanets:berry_jelly_ore" },
+        "variant=lime_jelly_ore": { "model": "moreplanets:lime_jelly_ore" },
+        "variant=orange_jelly_ore": { "model": "moreplanets:orange_jelly_ore" },
+        "variant=green_jelly_ore": { "model": "moreplanets:green_jelly_ore" },
+		"variant=lemon_jelly_ore": { "model": "moreplanets:lemon_jelly_ore" }
+    }
+}

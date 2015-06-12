@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "moreplanets:blocks/infected_cavernous_vine",
+        "cross": "moreplanets:blocks/infected_cavernous_vine"
+    }
+}

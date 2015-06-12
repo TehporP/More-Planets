@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "moreplanets:blocks/kapteyn_b_cracked_ice",
+        "top": "moreplanets:blocks/kapteyn_b_cracked_ice",
+        "side": "moreplanets:blocks/kapteyn_b_cracked_ice"
+    }
+}

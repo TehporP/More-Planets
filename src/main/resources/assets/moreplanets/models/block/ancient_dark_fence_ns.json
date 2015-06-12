@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_ns",
+    "textures": {
+        "texture": "moreplanets:blocks/ancient_dark_wood_planks"
+    }
+}

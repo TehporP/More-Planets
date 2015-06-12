@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "moreplanets:blocks/kapteyn_b_tin_ore"
+    }
+}

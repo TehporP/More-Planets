@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "variant=young_orange_dandelion": { "model": "moreplanets:young_orange_dandelion" },
+		"variant=young_pink_dandelion": { "model": "moreplanets:young_pink_dandelion" },
+        "variant=young_purple_dandelion": { "model": "moreplanets:young_purple_dandelion" },
+        "variant=orange_dandelion": { "model": "moreplanets:orange_dandelion" },
+		"variant=pink_dandelion": { "model": "moreplanets:pink_dandelion" },
+        "variant=purple_dandelion": { "model": "moreplanets:purple_dandelion" }
+    }
+}

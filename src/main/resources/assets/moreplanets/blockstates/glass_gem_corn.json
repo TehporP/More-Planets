@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "stage=state_bottom1": { "model": "moreplanets:glass_gem_corn_top" },
+		"stage=state_bottom2": { "model": "moreplanets:glass_gem_corn_middle" },
+		"stage=state_middle0": { "model": "moreplanets:glass_gem_corn_top" },
+        "stage=state_middle1": { "model": "moreplanets:glass_gem_corn_middle" },
+		"stage=state_middle2": { "model": "moreplanets:glass_gem_corn_middle1" },
+		"stage=state_middle3": { "model": "moreplanets:glass_gem_corn_middle2" },
+        "stage=state_top1": { "model": "moreplanets:glass_gem_corn_top" }
+    }
+}

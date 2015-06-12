@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=infected_dirt": { "model": "moreplanets:infected_dirt" },
+        "variant=coarse_infected_dirt": { "model": "moreplanets:coarse_infected_dirt" }
+    }
+}

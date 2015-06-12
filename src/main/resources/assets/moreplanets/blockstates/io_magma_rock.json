@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=io_magma_rock": { "model": "moreplanets:io_magma_rock" },
+        "variant=io_sulfur_rock": { "model": "moreplanets:io_sulfur_rock" }
+    }
+}

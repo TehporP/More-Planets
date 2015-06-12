@@ -1,0 +1,9 @@
+{
+    "variants": {
+		"variant=ancient_dark_wood_slab": { "model": "moreplanets:ancient_dark_wood_planks" },
+		"variant=orange_wood_slab": { "model": "moreplanets:orange_wood_planks" },
+		"variant=crystal_wood_slab": { "model": "moreplanets:crystal_planks" },
+		"variant=coconut_wood_slab": { "model": "moreplanets:coconut_wood_planks" },
+		"variant=maple_wood_slab": { "model": "moreplanets:maple_wood_planks" }
+    }
+}

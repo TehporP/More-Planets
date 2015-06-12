@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "moreplanets:blocks/purple_spike_flower",
+        "cross": "moreplanets:blocks/purple_spike_flower"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=orange_rose_bush_bottom": { "model": "moreplanets:orange_rose_bush_bottom" },
+        "variant=orange_rose_bush_top":    { "model": "moreplanets:orange_rose_bush_top" }
+    }
+}

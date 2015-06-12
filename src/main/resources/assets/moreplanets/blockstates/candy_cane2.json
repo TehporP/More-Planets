@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "axis=y,variant=light_blue_candy_cane":    { "model": "moreplanets:light_blue_candy_cane" },
+        "axis=z,variant=light_blue_candy_cane":     { "model": "moreplanets:light_blue_candy_cane_side" },
+        "axis=x,variant=light_blue_candy_cane":     { "model": "moreplanets:light_blue_candy_cane_side", "y": 90 },
+        "axis=none,variant=light_blue_candy_cane":   { "model": "moreplanets:light_blue_candy_cane_bark" },
+		"axis=y,variant=blue_candy_cane":    { "model": "moreplanets:blue_candy_cane" },
+        "axis=z,variant=blue_candy_cane":     { "model": "moreplanets:blue_candy_cane_side" },
+        "axis=x,variant=blue_candy_cane":     { "model": "moreplanets:blue_candy_cane_side", "y": 90 },
+        "axis=none,variant=blue_candy_cane":   { "model": "moreplanets:blue_candy_cane_bark" },
+		"axis=y,variant=red_candy_cane":    { "model": "moreplanets:red_candy_cane" },
+        "axis=z,variant=red_candy_cane":     { "model": "moreplanets:red_candy_cane_side" },
+        "axis=x,variant=red_candy_cane":     { "model": "moreplanets:red_candy_cane_side", "y": 90 },
+        "axis=none,variant=red_candy_cane":   { "model": "moreplanets:red_candy_cane_bark" },
+		"axis=y,variant=purple_candy_cane":    { "model": "moreplanets:purple_candy_cane" },
+        "axis=z,variant=purple_candy_cane":     { "model": "moreplanets:purple_candy_cane_side" },
+        "axis=x,variant=purple_candy_cane":     { "model": "moreplanets:purple_candy_cane_side", "y": 90 },
+        "axis=none,variant=purple_candy_cane":   { "model": "moreplanets:purple_candy_cane_bark" }
+    }
+}

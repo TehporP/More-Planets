@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "moreplanets:candy_extractor_active" },
+        "facing=south": { "model": "moreplanets:candy_extractor_active", "y": 180 },
+        "facing=west":  { "model": "moreplanets:candy_extractor_active", "y": 270 },
+        "facing=east":  { "model": "moreplanets:candy_extractor_active", "y": 90 }
+    }
+}

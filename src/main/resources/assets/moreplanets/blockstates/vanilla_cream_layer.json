@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "layers=1":  { "model": "moreplanets:vanilla_cream_height2" },
+        "layers=2":  { "model": "moreplanets:vanilla_cream_height4" },
+        "layers=3":  { "model": "moreplanets:vanilla_cream_height6" },
+        "layers=4":  { "model": "moreplanets:vanilla_cream_height8" },
+        "layers=5":  { "model": "moreplanets:vanilla_cream_height10" },
+        "layers=6":  { "model": "moreplanets:vanilla_cream_height12" },
+        "layers=7":  { "model": "moreplanets:vanilla_cream_height14" },
+        "layers=8":  { "model": "moreplanets:vanilla_cream" }
+    }
+}

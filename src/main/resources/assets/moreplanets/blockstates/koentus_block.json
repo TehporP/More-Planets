@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "variant=koentus_surface_rock": { "model": "moreplanets:koentus_surface_rock" },
+        "variant=koentus_sub_surface_rock": { "model": "moreplanets:koentus_sub_surface_rock" },
+        "variant=koentus_rock": { "model": "moreplanets:koentus_rock" },
+        "variant=koentus_cobblestone": { "model": "moreplanets:koentus_cobblestone" },
+        "variant=koentus_tin_ore": { "model": "moreplanets:koentus_tin_ore" },
+        "variant=koentus_copper_ore": { "model": "moreplanets:koentus_copper_ore" },
+        "variant=white_crystal_ore": { "model": "moreplanets:white_crystal_ore" },
+        "variant=emp_crystal_ore": { "model": "moreplanets:emp_crystal_ore" },
+        "variant=becterial_fossil_ore": { "model": "moreplanets:becterial_fossil_ore" },
+        "variant=white_crystal_block": { "model": "moreplanets:white_crystal_block" },
+        "variant=emp_crystal_block": { "model": "moreplanets:emp_crystal_block" },
+        "variant=solid_koentus_meteoric_iron": { "model": "moreplanets:solid_koentus_meteoric_iron" },
+        "variant=koentus_ancient_stone": { "model": "moreplanets:koentus_ancient_stone" },
+        "variant=koentus_ancient_stone_brick": { "model": "moreplanets:koentus_ancient_stone_brick" },
+        "variant=koentus_dungeon_brick": { "model": "moreplanets:koentus_dungeon_brick" }
+    }
+}

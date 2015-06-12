@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":    { "model": "moreplanets:orange_wood_log" },
+        "axis=z":     { "model": "moreplanets:orange_wood_log_side" },
+        "axis=x":     { "model": "moreplanets:orange_wood_log_side", "y": 90 },
+        "axis=none":   { "model": "moreplanets:orange_wood_bark" }
+    }
+}

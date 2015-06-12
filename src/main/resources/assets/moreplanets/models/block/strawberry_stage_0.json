@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "moreplanets:blocks/strawberry_bush_0"
+    }
+}

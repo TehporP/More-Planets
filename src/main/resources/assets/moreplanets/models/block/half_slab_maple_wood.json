@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "moreplanets:blocks/maple_wood_planks",
+        "top": "moreplanets:blocks/maple_wood_planks",
+        "side": "moreplanets:blocks/maple_wood_planks"
+    }
+}

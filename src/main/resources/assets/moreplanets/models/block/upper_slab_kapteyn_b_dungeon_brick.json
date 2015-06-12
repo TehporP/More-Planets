@@ -1,0 +1,8 @@
+{
+    "parent": "block/upper_slab",
+    "textures": {
+        "bottom": "moreplanets:blocks/kapteyn_b_dungeon_brick",
+        "top": "moreplanets:blocks/kapteyn_b_dungeon_brick",
+        "side": "moreplanets:blocks/kapteyn_b_dungeon_brick"
+    }
+}

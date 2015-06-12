@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "variant=kapteyn_b_surface_ice": { "model": "moreplanets:kapteyn_b_surface_ice" },
+        "variant=kapteyn_b_sub_surface_ice": { "model": "moreplanets:kapteyn_b_sub_surface_ice" },
+        "variant=kapteyn_b_hardened_ice": { "model": "moreplanets:kapteyn_b_hardened_ice" },
+        "variant=kapteyn_b_cracked_ice": { "model": "moreplanets:kapteyn_b_cracked_ice" },
+        "variant=namerium_ore": { "model": "moreplanets:namerium_ore" },
+        "variant=frozen_iron_ore": { "model": "moreplanets:frozen_iron_ore" },
+        "variant=uranium_ore": { "model": "moreplanets:uranium_ore" },
+        "variant=kapteyn_b_tin_ore": { "model": "moreplanets:kapteyn_b_tin_ore" },
+        "variant=kapteyn_b_copper_ore": { "model": "moreplanets:kapteyn_b_copper_ore" },
+        "variant=namerium_block": { "model": "moreplanets:namerium_block" },
+        "variant=frozen_iron_block": { "model": "moreplanets:frozen_iron_block" },
+        "variant=uranium_block": { "model": "moreplanets:uranium_block" },
+        "variant=kapteyn_b_dungeon_brick": { "model": "moreplanets:kapteyn_b_dungeon_brick" }
+    }
+}

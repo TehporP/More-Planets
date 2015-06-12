@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "moreplanets:blocks/yellow_milk_cap",
+        "cross": "moreplanets:blocks/yellow_milk_cap"
+    }
+}

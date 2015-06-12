@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_nse",
+    "textures": {
+        "edge": "moreplanets:blocks/cheese_glass_pane",
+        "pane": "moreplanets:blocks/cheese_glass"
+    }
+}

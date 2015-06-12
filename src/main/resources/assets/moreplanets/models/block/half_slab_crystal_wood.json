@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "moreplanets:blocks/crystal_wood_planks",
+        "top": "moreplanets:blocks/crystal_wood_planks",
+        "side": "moreplanets:blocks/crystal_wood_planks"
+    }
+}

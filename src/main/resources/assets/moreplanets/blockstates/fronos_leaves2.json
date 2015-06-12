@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "variant=red_maple_leaves": { "model": "moreplanets:red_maple_leaves" },
+        "variant=yellow_maple_leaves": { "model": "moreplanets:yellow_maple_leaves" },
+		"variant=purple_maple_leaves": { "model": "moreplanets:purple_maple_leaves" }
+    }
+}

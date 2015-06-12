@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=uranium_waste": { "model": "moreplanets:uranium_waste" },
+        "variant=inactive_uranium_waste": { "model": "moreplanets:inactive_uranium_waste" }
+    }
+}

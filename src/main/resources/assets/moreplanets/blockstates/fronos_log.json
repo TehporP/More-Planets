@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "axis=y,variant=coconut_wood_log":    { "model": "moreplanets:coconut_wood_log" },
+        "axis=z,variant=coconut_wood_log":     { "model": "moreplanets:coconut_wood_log_side" },
+        "axis=x,variant=coconut_wood_log":     { "model": "moreplanets:coconut_wood_log_side", "y": 90 },
+        "axis=none,variant=coconut_wood_log":   { "model": "moreplanets:coconut_wood_bark" },
+		"axis=y,variant=maple_wood_log":    { "model": "moreplanets:maple_wood_log" },
+        "axis=z,variant=maple_wood_log":     { "model": "moreplanets:maple_wood_log_side" },
+        "axis=x,variant=maple_wood_log":     { "model": "moreplanets:maple_wood_log_side", "y": 90 },
+        "axis=none,variant=maple_wood_log":   { "model": "moreplanets:maple_wood_bark" }
+    }
+}

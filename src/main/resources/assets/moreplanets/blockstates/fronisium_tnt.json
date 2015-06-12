@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "moreplanets:fronisium_tnt" },
+            { "model": "moreplanets:fronisium_tnt", "y": 90 },
+            { "model": "moreplanets:fronisium_tnt", "y": 180 },
+            { "model": "moreplanets:fronisium_tnt", "y": 270 }
+        ]
+    }
+}

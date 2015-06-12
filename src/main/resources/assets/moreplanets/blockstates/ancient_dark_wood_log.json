@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":    { "model": "moreplanets:ancient_dark_wood_log" },
+        "axis=z":     { "model": "moreplanets:ancient_dark_wood_log_side" },
+        "axis=x":     { "model": "moreplanets:ancient_dark_wood_log_side", "y": 90 },
+        "axis=none":   { "model": "moreplanets:ancient_dark_wood_bark" }
+    }
+}

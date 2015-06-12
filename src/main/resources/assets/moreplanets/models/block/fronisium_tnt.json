@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "moreplanets:blocks/fronisium_block",
+        "top": "moreplanets:blocks/fronisium_tnt_top",
+        "side": "moreplanets:blocks/fronisium_tnt_side"
+    }
+}

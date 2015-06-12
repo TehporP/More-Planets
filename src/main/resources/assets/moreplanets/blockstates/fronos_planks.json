@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=coconut_wood_planks": { "model": "moreplanets:coconut_wood_planks" },
+        "variant=maple_wood_planks": { "model": "moreplanets:maple_wood_planks" }
+    }
+}

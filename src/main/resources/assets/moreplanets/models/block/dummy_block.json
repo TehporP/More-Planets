@@ -1,0 +1,53 @@
+{
+    "textures": {
+        "particle": "blocks/portal",
+        "1": "moreplanets:blocks/diona_ancient_chest",
+		"2": "moreplanets:blocks/polongnius_ancient_chest",
+		"3": "moreplanets:blocks/nibiru_ancient_chest",
+		"4": "moreplanets:blocks/koentus_ancient_chest",
+		"5": "moreplanets:blocks/fronos_ancient_chest",
+		"6": "moreplanets:blocks/kapteyn_b_ancient_chest",
+		"7": "moreplanets:blocks/sirius_b_ancient_chest",
+		"8": "moreplanets:blocks/mercury_ancient_chest",
+		"9": "moreplanets:blocks/cup",
+		"10": "moreplanets:blocks/oyster",
+		"11": "moreplanets:blocks/cavern_oyster",
+		"12": "moreplanets:blocks/venus_ancient_chest",
+		"13": "moreplanets:blocks/pluto_ancient_chest"
+    },
+    "elements": [
+	    {   "from": [ 2, 2, 15 ],
+            "to": [ 3, 3, 16 ],
+            "faces": {
+                "down":  { "uv": [ 5, 4.5, 10.5, 12.5 ], "texture": "#1" },
+                "up":    { "uv": [ 5, 4.5, 10.5, 12.5 ], "texture": "#2" },
+                "north": { "uv": [ 5, 13.5, 10.5, 16 ], "texture": "#3" },
+                "south": { "uv": [ 5, 13.5, 10.5, 16 ], "texture": "#4" },
+                "west":  { "uv": [ 4.5, 13.5, 12.5, 16 ], "texture": "#5" },
+                "east":  { "uv": [ 4.5, 13.5, 12.5, 16 ], "texture": "#6" }
+            }
+        },
+		{   "from": [ 2, 2, 15 ],
+            "to": [ 3, 3, 16 ],
+            "faces": {
+                "down":  { "uv": [ 5, 4.5, 10.5, 12.5 ], "texture": "#7" },
+                "up":    { "uv": [ 5, 4.5, 10.5, 12.5 ], "texture": "#8" },
+                "north": { "uv": [ 5, 13.5, 10.5, 16 ], "texture": "#9" },
+                "south": { "uv": [ 5, 13.5, 10.5, 16 ], "texture": "#10" },
+                "west":  { "uv": [ 4.5, 13.5, 12.5, 16 ], "texture": "#11" },
+                "east":  { "uv": [ 4.5, 13.5, 12.5, 16 ], "texture": "#12" }
+            }
+        },
+		{   "from": [ 2, 2, 15 ],
+            "to": [ 3, 3, 16 ],
+            "faces": {
+                "down":  { "uv": [ 5, 4.5, 10.5, 12.5 ], "texture": "#13" },
+                "up":    { "uv": [ 5, 4.5, 10.5, 12.5 ], "texture": "#8" },
+                "north": { "uv": [ 5, 13.5, 10.5, 16 ], "texture": "#9" },
+                "south": { "uv": [ 5, 13.5, 10.5, 16 ], "texture": "#10" },
+                "west":  { "uv": [ 4.5, 13.5, 12.5, 16 ], "texture": "#11" },
+                "east":  { "uv": [ 4.5, 13.5, 12.5, 16 ], "texture": "#12" }
+            }
+        }
+    ]
+}

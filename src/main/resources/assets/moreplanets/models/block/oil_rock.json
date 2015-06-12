@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "moreplanets:blocks/nibiru_sub_surface_rock",
+        "top": "moreplanets:blocks/oil_rock",
+        "side": "moreplanets:blocks/nibiru_surface_rock"
+    }
+}

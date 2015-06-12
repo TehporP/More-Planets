@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=crystal_dirt": { "model": "moreplanets:crystal_dirt" },
+        "variant=coarse_crystal_dirt": { "model": "moreplanets:coarse_crystal_dirt" }
+    }
+}

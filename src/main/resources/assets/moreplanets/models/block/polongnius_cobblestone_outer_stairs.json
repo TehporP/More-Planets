@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "moreplanets:blocks/polongnius_cobblestone",
+        "top": "moreplanets:blocks/polongnius_cobblestone",
+        "side": "moreplanets:blocks/polongnius_cobblestone"
+    }
+}

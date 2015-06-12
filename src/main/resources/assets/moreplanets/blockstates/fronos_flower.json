@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "variant=pink_butter_cup": { "model": "moreplanets:pink_butter_cup" },
+		"variant=orange_butterfly_flower": { "model": "moreplanets:orange_butterfly_flower" },
+        "variant=yellow_milk_cap": { "model": "moreplanets:yellow_milk_cap" },
+		"variant=little_sun_flower": { "model": "moreplanets:little_sun_flower" },
+		"variant=sky_mushroom": { "model": "moreplanets:sky_mushroom" },
+        "variant=purple_spike_flower": { "model": "moreplanets:purple_spike_flower" },
+		"variant=jungle_iris": { "model": "moreplanets:jungle_iris" },
+		"variant=blue_poison_mushroom": { "model": "moreplanets:blue_poison_mushroom" },
+        "variant=white_moss": { "model": "moreplanets:white_moss" }
+    }
+}

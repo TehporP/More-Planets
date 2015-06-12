@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "moreplanets:infected_worm_egg_rock" },
+            { "model": "moreplanets:infected_worm_egg_rock", "y": 90 },
+            { "model": "moreplanets:infected_worm_egg_rock", "y": 180 },
+            { "model": "moreplanets:infected_worm_egg_rock", "y": 270 }
+        ]
+    }
+}

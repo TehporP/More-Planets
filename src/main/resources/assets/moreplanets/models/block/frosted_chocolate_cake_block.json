@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "moreplanets:blocks/chocolate_cake_bread",
+        "top": "moreplanets:blocks/frosted_white_cake_top",
+        "side": "moreplanets:blocks/frosted_chocolate_cake_side"
+    }
+}
