@@ -1,0 +1,18 @@
+# More Planets : Core = ENGLISH
+
+tile.chondrite_block.rock.name=Chondrite Rock
+tile.chondrite_block.polished.name=Polished Chondrite
+tile.chondrite_block.stone_brick.name=Chondrite Stone Brick
+
+# GUI
+itemGroup.MorePlanetsBlocks=More Planets Blocks
+itemGroup.MorePlanetsItems=More Planets Items
+itemGroup.MorePlanetsTools=More Planets Tools
+itemGroup.MorePlanetsArmor=More Planets Armor
+
+# PLANET
+star.sirius=Sirius
+solarsystem.sirius=Sirius Solar System
+
+mp.failed.name=Update check failed!
+mp.success.name=More Planets remote version found:

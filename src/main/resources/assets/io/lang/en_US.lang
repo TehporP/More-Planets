@@ -1,0 +1,39 @@
+# More Planet's : Io = ENGLISH
+
+# BLOCKS
+tile.io_block.surface_rock.name=Io Surface Rock
+tile.io_block.sub_surface_rock.name=Io Sub-Surface Rock
+tile.io_block.rock.name=Io Rock
+tile.io_block.cobblestone.name=Io Cobblestone
+tile.io_block.sulfur_ore.name=Sulfur Ore
+tile.io_block.ash_stone.name=Ash Stone
+tile.io_block.ash_cobblestone.name=Ash Cobblestone
+tile.io_block.silicate_rock.name=Silicate Rock
+tile.io_block.dungeon_brick.name=Io Dungeon Brick
+tile.io_magma_rock.magma_rock.name=Magma Rock
+tile.io_magma_rock.sulfur_rock.name=Sulfur Rock
+
+# SLABS
+
+# WALLS
+
+# ITEMS
+item.titanium_bucket.name=Titanium Bucket
+item.io_lava_bucket.name=Io Lava Bucket
+item.liquid_red_sulfur_bucket.name=Liquid Red Sulfur Bucket
+item.liquid_yellow_sulfur_bucket.name=Liquid Yellow Sulfur Bucket
+item.liquid_orange_sulfur_bucket.name=Liquid Orange Sulfur Bucket
+item.liquid_brown_sulfur_bucket.name=Liquid Brown Sulfur Bucket
+item.io_black_lava_bucket.name=Black Lava Bucket
+
+# TOOLS
+
+# ARMORS
+
+# ENTITIES
+
+# GUI
+
+# CONTAINER
+
+# PLANET

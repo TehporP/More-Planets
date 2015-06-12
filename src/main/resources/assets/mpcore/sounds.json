@@ -1,0 +1,12 @@
+{
+  "player.laser":
+  {
+    "category": "player",
+    "sounds": ["player/laser"]
+  },
+    "player.unlock.treasure.chest":
+  {
+    "category": "player",
+    "sounds": ["player/unlockTreasureChest"]
+  }
+}
